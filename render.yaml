@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: olap_dashboard
+    env: python
+    buildCommand: pip install fastapi uvicorn numpy scikit-learn pandas
+    startCommand: uvicorn src.api:app --host 0.0.0.0 --port $PORT
