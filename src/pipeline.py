@@ -9,7 +9,7 @@ Star Schema:
   dim_users   (user_id, country, segment)
   dim_products(product_id, category, price)
 """
-import sqlite3, json, time, random
+import sqlite3, json, time, random, math, threading
 from datetime import datetime, timedelta
 from dataclasses import dataclass, field
 from typing import List, Dict, Optional, Any
@@ -37,6 +37,7 @@ class OLAPPipeline:
     In production: replace SQLite with PostgreSQL + TimescaleDB.
     """
     def __init__(self, db_path: str = ":memory:"):
+        self._lock = threading.RLock()
         self.conn = sqlite3.connect(db_path, check_same_thread=False)
         self.conn.row_factory = sqlite3.Row
         self._create_schema()
@@ -83,26 +84,29 @@ class OLAPPipeline:
         self.conn.commit()
 
     def ingest_event(self, event: Event):
-        """Insert a single event (streaming ingestion path)."""
-        cur = self.conn.cursor()
-        cur.execute(
-            "INSERT OR REPLACE INTO fact_events VALUES (?,?,?,?,?,?,?)",
-            (event.event_id, event.user_id, event.product_id,
-             event.event_type, event.revenue, event.quantity, event.timestamp)
-        )
-        self.conn.commit()
-        self.event_count += 1
+        self.ingest_batch([event])
 
     def ingest_batch(self, events: List[Event]):
-        """Bulk insert for higher throughput."""
-        cur = self.conn.cursor()
-        cur.executemany(
-            "INSERT OR REPLACE INTO fact_events VALUES (?,?,?,?,?,?,?)",
-            [(e.event_id, e.user_id, e.product_id, e.event_type,
-              e.revenue, e.quantity, e.timestamp) for e in events]
-        )
-        self.conn.commit()
-        self.event_count += len(events)
+        """Atomic immutable event receipts; exact retry is a no-op."""
+        if len(events)>10000:
+            raise ValueError("Batch exceeds 10,000 events")
+        rows=[]
+        for e in events:
+            if not e.event_id or len(e.event_id)>200 or e.event_type not in {"purchase","view","cart_add"} or not math.isfinite(e.revenue) or e.revenue<0 or not isinstance(e.quantity,int) or e.quantity<0:
+                raise ValueError("Invalid event")
+            datetime.fromisoformat(e.timestamp)
+            rows.append((e.event_id,e.user_id,e.product_id,e.event_type,e.revenue,e.quantity,e.timestamp))
+        with self._lock, self.conn:
+            inserted=0
+            for row in rows:
+                old=self.conn.execute("SELECT * FROM fact_events WHERE event_id=?",(row[0],)).fetchone()
+                if old is not None:
+                    if tuple(old)!=row:
+                        raise ValueError("Conflicting replay for event_id")
+                    continue
+                self.conn.execute("INSERT INTO fact_events VALUES (?,?,?,?,?,?,?)",row)
+                inserted+=1
+        self.event_count+=inserted
 
     def _time_filter(self, window: str) -> str:
         now = datetime.utcnow()
@@ -113,10 +117,14 @@ class OLAPPipeline:
         elif window == "last_week":
             cutoff = now - timedelta(weeks=1)
         else:
-            cutoff = now - timedelta(days=30)
+            raise ValueError("Unsupported time window")
         return cutoff.isoformat()
 
     def query(self, q: OLAPQuery) -> List[Dict]:
+        if q.metric not in {"revenue","orders","users","avg_order_value"} or q.group_by not in {"country","category","segment","hour","product_id","user_id","event_type"}:
+            raise ValueError("Unsupported metric or group")
+        if any(k not in {"user_id","product_id","event_type"} for k in q.filters):
+            raise ValueError("Unsupported filter column")
         cutoff = self._time_filter(q.time_window)
         if q.group_by == "country":
             group_col = "du.country"
@@ -145,9 +153,11 @@ class OLAPPipeline:
         else:
             agg = "COUNT(*)"
 
-        filter_clauses = [f"f.timestamp >= '{cutoff}'", "f.event_type='purchase'"]
+        filter_clauses = ["f.timestamp >= ?", "f.event_type='purchase'"]
+        parameters = [cutoff]
         for k, v in q.filters.items():
-            filter_clauses.append(f"f.{k}='{v}'")
+            filter_clauses.append(f"f.{k}=?")
+            parameters.append(str(v))
 
         sql = f"""
         SELECT {group_col} AS dimension, {agg} AS value,
@@ -159,7 +169,7 @@ class OLAPPipeline:
         ORDER BY value DESC
         LIMIT 20
         """
-        rows = self.conn.execute(sql).fetchall()
+        rows = self.conn.execute(sql,parameters).fetchall()
         return [dict(row) for row in rows]
 
     def running_totals(self, hours: int = 24) -> List[Dict]:

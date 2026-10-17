@@ -85,3 +85,15 @@ class TestEdgeCases:
         p.ingest_event(e); p.ingest_event(e)
         stats = p.pipeline_stats()
         assert stats["events_in_db"] == 1
+
+
+def test_query_values_are_bound_not_executable():
+    p=OLAPPipeline();p.ingest_event(Event("x","u1","p1","purchase",5.,1,datetime.utcnow().isoformat()))
+    assert p.query(OLAPQuery("revenue","country","last_day",{"user_id":"u1' OR 1=1 --"}))==[]
+    with pytest.raises(ValueError): p.query(OLAPQuery("revenue","country","last_day",{"user_id) OR 1=1 --":"x"}))
+
+def test_conflicting_batch_rolls_back_every_new_event():
+    p=OLAPPipeline();stamp=datetime.utcnow().isoformat();p.ingest_event(Event("x","u1","p1","purchase",5.,1,stamp))
+    with pytest.raises(ValueError): p.ingest_batch([Event("new","u1","p1","purchase",2.,1,stamp),Event("x","u1","p1","purchase",99.,1,stamp)])
+    assert p.pipeline_stats()["events_in_db"]==1
+    assert p.pipeline_stats()["total_revenue"]==5.
