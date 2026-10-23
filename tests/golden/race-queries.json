@@ -1,0 +1,8777 @@
+[
+ {
+  "query": "tower",
+  "params": {
+   "as_of": 600
+  },
+  "rows": [
+   {
+    "pos": 1,
+    "driver_number": 81,
+    "code": "PIA",
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 7,
+    "last_lap": 84.418,
+    "best_lap": 84.418,
+    "laps_down": 0,
+    "gap": 0.0,
+    "interval": null,
+    "compound": "MEDIUM",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 2,
+    "driver_number": 16,
+    "code": "LEC",
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 7,
+    "last_lap": 84.434,
+    "best_lap": 84.434,
+    "laps_down": 0,
+    "gap": 0.907,
+    "interval": 0.907,
+    "compound": "MEDIUM",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 3,
+    "driver_number": 4,
+    "code": "NOR",
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 7,
+    "last_lap": 84.531,
+    "best_lap": 84.531,
+    "laps_down": 0,
+    "gap": 2.254,
+    "interval": 1.347,
+    "compound": "MEDIUM",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 4,
+    "driver_number": 55,
+    "code": "SAI",
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 6,
+    "last_lap": 84.642,
+    "best_lap": 84.642,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.984,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 5,
+    "driver_number": 44,
+    "code": "HAM",
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 6,
+    "last_lap": 84.919,
+    "best_lap": 84.771,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.622,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 6,
+    "driver_number": 1,
+    "code": "VER",
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 6,
+    "last_lap": 85.096,
+    "best_lap": 85.096,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.532,
+    "compound": "HARD",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 7,
+    "driver_number": 63,
+    "code": "RUS",
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 6,
+    "last_lap": 85.101,
+    "best_lap": 85.101,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.335,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 8,
+    "driver_number": 11,
+    "code": "PER",
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 6,
+    "last_lap": 85.105,
+    "best_lap": 85.105,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.484,
+    "compound": "HARD",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 9,
+    "driver_number": 23,
+    "code": "ALB",
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 6,
+    "last_lap": 85.946,
+    "best_lap": 85.946,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 3.708,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 10,
+    "driver_number": 14,
+    "code": "ALO",
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 6,
+    "last_lap": 85.911,
+    "best_lap": 85.911,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.767,
+    "compound": "MEDIUM",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 11,
+    "driver_number": 3,
+    "code": "RIC",
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 6,
+    "last_lap": 85.899,
+    "best_lap": 85.899,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.821,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 12,
+    "driver_number": 20,
+    "code": "MAG",
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 6,
+    "last_lap": 85.902,
+    "best_lap": 85.902,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.649,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 13,
+    "driver_number": 10,
+    "code": "GAS",
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 6,
+    "last_lap": 86.042,
+    "best_lap": 86.042,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.829,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 14,
+    "driver_number": 31,
+    "code": "OCO",
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 6,
+    "last_lap": 85.684,
+    "best_lap": 85.684,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.364,
+    "compound": "HARD",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 15,
+    "driver_number": 43,
+    "code": "COL",
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 6,
+    "last_lap": 86.057,
+    "best_lap": 86.057,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 2.415,
+    "compound": "MEDIUM",
+    "tyre_age": 6,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 16,
+    "driver_number": 18,
+    "code": "STR",
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 6,
+    "last_lap": 85.558,
+    "best_lap": 85.558,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.225,
+    "compound": "HARD",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 17,
+    "driver_number": 77,
+    "code": "BOT",
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 6,
+    "last_lap": 86.499,
+    "best_lap": 86.324,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 2.741,
+    "compound": "HARD",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 18,
+    "driver_number": 24,
+    "code": "ZHO",
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 6,
+    "last_lap": 85.942,
+    "best_lap": 85.942,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.443,
+    "compound": "MEDIUM",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 19,
+    "driver_number": 22,
+    "code": "TSU",
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 6,
+    "last_lap": 88.473,
+    "best_lap": 86.198,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 2.251,
+    "compound": "HARD",
+    "tyre_age": 7,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 20,
+    "driver_number": 27,
+    "code": "HUL",
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 6,
+    "last_lap": 120.178,
+    "best_lap": 86.434,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 31.447,
+    "compound": "HARD",
+    "tyre_age": 1,
+    "pits": 1,
+    "stale": 0
+   }
+  ]
+ },
+ {
+  "query": "tower",
+  "params": {
+   "as_of": 2400
+  },
+  "rows": [
+   {
+    "pos": 1,
+    "driver_number": 81,
+    "code": "PIA",
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 28,
+    "last_lap": 83.168,
+    "best_lap": 83.088,
+    "laps_down": 0,
+    "gap": 0.0,
+    "interval": null,
+    "compound": "HARD",
+    "tyre_age": 12,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 2,
+    "driver_number": 4,
+    "code": "NOR",
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 28,
+    "last_lap": 83.067,
+    "best_lap": 83.067,
+    "laps_down": 0,
+    "gap": 2.231,
+    "interval": 2.231,
+    "compound": "HARD",
+    "tyre_age": 14,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 3,
+    "driver_number": 16,
+    "code": "LEC",
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 28,
+    "last_lap": 83.284,
+    "best_lap": 83.284,
+    "laps_down": 0,
+    "gap": 4.437,
+    "interval": 2.206,
+    "compound": "HARD",
+    "tyre_age": 13,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 4,
+    "driver_number": 55,
+    "code": "SAI",
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 27,
+    "last_lap": 83.503,
+    "best_lap": 83.503,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 11.138,
+    "compound": "HARD",
+    "tyre_age": 8,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 5,
+    "driver_number": 44,
+    "code": "HAM",
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 27,
+    "last_lap": 83.495,
+    "best_lap": 83.495,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.569,
+    "compound": "HARD",
+    "tyre_age": 12,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 6,
+    "driver_number": 1,
+    "code": "VER",
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 27,
+    "last_lap": 83.524,
+    "best_lap": 83.524,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 7.484,
+    "compound": "HARD",
+    "tyre_age": 5,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 7,
+    "driver_number": 11,
+    "code": "PER",
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 27,
+    "last_lap": 83.784,
+    "best_lap": 83.784,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 3.681,
+    "compound": "HARD",
+    "tyre_age": 4,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 8,
+    "driver_number": 63,
+    "code": "RUS",
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 27,
+    "last_lap": 83.732,
+    "best_lap": 83.575,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.363,
+    "compound": "HARD",
+    "tyre_age": 16,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 9,
+    "driver_number": 14,
+    "code": "ALO",
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 27,
+    "last_lap": 84.891,
+    "best_lap": 84.504,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 5.573,
+    "compound": "HARD",
+    "tyre_age": 16,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 10,
+    "driver_number": 31,
+    "code": "OCO",
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 27,
+    "last_lap": 86.725,
+    "best_lap": 85.369,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.541,
+    "compound": "HARD",
+    "tyre_age": 27,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 11,
+    "driver_number": 23,
+    "code": "ALB",
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 27,
+    "last_lap": 84.949,
+    "best_lap": 84.707,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 4.749,
+    "compound": "HARD",
+    "tyre_age": 10,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 12,
+    "driver_number": 20,
+    "code": "MAG",
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 27,
+    "last_lap": 84.64,
+    "best_lap": 84.64,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.854,
+    "compound": "HARD",
+    "tyre_age": 13,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 13,
+    "driver_number": 77,
+    "code": "BOT",
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 27,
+    "last_lap": 86.309,
+    "best_lap": 86.118,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 3.17,
+    "compound": "HARD",
+    "tyre_age": 28,
+    "pits": 0,
+    "stale": 0
+   },
+   {
+    "pos": 14,
+    "driver_number": 3,
+    "code": "RIC",
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 27,
+    "last_lap": 85.595,
+    "best_lap": 84.753,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.693,
+    "compound": "HARD",
+    "tyre_age": 17,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 15,
+    "driver_number": 10,
+    "code": "GAS",
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 27,
+    "last_lap": 87.191,
+    "best_lap": 84.816,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.113,
+    "compound": "HARD",
+    "tyre_age": 17,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 16,
+    "driver_number": 43,
+    "code": "COL",
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 27,
+    "last_lap": 84.497,
+    "best_lap": 84.485,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 1.699,
+    "compound": "HARD",
+    "tyre_age": 11,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 17,
+    "driver_number": 18,
+    "code": "STR",
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 27,
+    "last_lap": 84.437,
+    "best_lap": 84.437,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 0.896,
+    "compound": "HARD",
+    "tyre_age": 9,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 18,
+    "driver_number": 27,
+    "code": "HUL",
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 27,
+    "last_lap": 85.674,
+    "best_lap": 84.983,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 8.284,
+    "compound": "HARD",
+    "tyre_age": 22,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 19,
+    "driver_number": 24,
+    "code": "ZHO",
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 27,
+    "last_lap": 85.603,
+    "best_lap": 85.092,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 5.854,
+    "compound": "HARD",
+    "tyre_age": 13,
+    "pits": 1,
+    "stale": 0
+   },
+   {
+    "pos": 20,
+    "driver_number": 22,
+    "code": "TSU",
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 7,
+    "last_lap": 100.319,
+    "best_lap": 86.198,
+    "laps_down": 21,
+    "gap": null,
+    "interval": 16.43,
+    "compound": "HARD",
+    "tyre_age": 8,
+    "pits": 0,
+    "stale": 1
+   }
+  ]
+ },
+ {
+  "query": "tower",
+  "params": {
+   "as_of": 10000
+  },
+  "rows": [
+   {
+    "pos": 1,
+    "driver_number": 16,
+    "code": "LEC",
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 53,
+    "last_lap": 83.268,
+    "best_lap": 83.226,
+    "laps_down": 0,
+    "gap": 0.0,
+    "interval": null,
+    "compound": "HARD",
+    "tyre_age": 38,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 2,
+    "driver_number": 81,
+    "code": "PIA",
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 53,
+    "last_lap": 81.943,
+    "best_lap": 81.943,
+    "laps_down": 0,
+    "gap": 2.582,
+    "interval": 2.582,
+    "compound": "HARD",
+    "tyre_age": 15,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 3,
+    "driver_number": 4,
+    "code": "NOR",
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 53,
+    "last_lap": 81.432,
+    "best_lap": 81.432,
+    "laps_down": 0,
+    "gap": 6.308,
+    "interval": 3.726,
+    "compound": "HARD",
+    "tyre_age": 21,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 4,
+    "driver_number": 55,
+    "code": "SAI",
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 53,
+    "last_lap": 83.219,
+    "best_lap": 83.219,
+    "laps_down": 0,
+    "gap": 15.594,
+    "interval": 9.286,
+    "compound": "HARD",
+    "tyre_age": 34,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 5,
+    "driver_number": 44,
+    "code": "HAM",
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 53,
+    "last_lap": 81.512,
+    "best_lap": 81.512,
+    "laps_down": 0,
+    "gap": 22.712,
+    "interval": 7.118,
+    "compound": "HARD",
+    "tyre_age": 16,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 6,
+    "driver_number": 1,
+    "code": "VER",
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 53,
+    "last_lap": 83.711,
+    "best_lap": 81.745,
+    "laps_down": 0,
+    "gap": 37.921,
+    "interval": 15.209,
+    "compound": "MEDIUM",
+    "tyre_age": 12,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 7,
+    "driver_number": 63,
+    "code": "RUS",
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 53,
+    "last_lap": 82.7,
+    "best_lap": 82.036,
+    "laps_down": 0,
+    "gap": 39.759,
+    "interval": 1.838,
+    "compound": "HARD",
+    "tyre_age": 20,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 8,
+    "driver_number": 11,
+    "code": "PER",
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 53,
+    "last_lap": 84.511,
+    "best_lap": 82.971,
+    "laps_down": 0,
+    "gap": 54.105,
+    "interval": 14.346,
+    "compound": "MEDIUM",
+    "tyre_age": 18,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 9,
+    "driver_number": 20,
+    "code": "MAG",
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 53,
+    "last_lap": 83.715,
+    "best_lap": 83.437,
+    "laps_down": 0,
+    "gap": 58.202,
+    "interval": 4.097,
+    "compound": "HARD",
+    "tyre_age": 39,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 10,
+    "driver_number": 23,
+    "code": "ALB",
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 53,
+    "last_lap": 83.918,
+    "best_lap": 83.918,
+    "laps_down": 0,
+    "gap": 67.349,
+    "interval": 9.147,
+    "compound": "HARD",
+    "tyre_age": 36,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 11,
+    "driver_number": 14,
+    "code": "ALO",
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 53,
+    "last_lap": 83.686,
+    "best_lap": 82.944,
+    "laps_down": 0,
+    "gap": 68.365,
+    "interval": 1.016,
+    "compound": "HARD",
+    "tyre_age": 20,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 12,
+    "driver_number": 3,
+    "code": "RIC",
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 53,
+    "last_lap": 84.347,
+    "best_lap": 84.219,
+    "laps_down": 0,
+    "gap": 78.323,
+    "interval": 9.958,
+    "compound": "HARD",
+    "tyre_age": 43,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 13,
+    "driver_number": 43,
+    "code": "COL",
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 53,
+    "last_lap": 83.728,
+    "best_lap": 83.728,
+    "laps_down": 0,
+    "gap": 81.239,
+    "interval": 2.916,
+    "compound": "HARD",
+    "tyre_age": 37,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 14,
+    "driver_number": 31,
+    "code": "OCO",
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 52,
+    "last_lap": 84.343,
+    "best_lap": 84.343,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 15.113,
+    "compound": "MEDIUM",
+    "tyre_age": 21,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 15,
+    "driver_number": 10,
+    "code": "GAS",
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 52,
+    "last_lap": 83.973,
+    "best_lap": 83.755,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 5.515,
+    "compound": "HARD",
+    "tyre_age": 22,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 16,
+    "driver_number": 77,
+    "code": "BOT",
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 52,
+    "last_lap": 83.609,
+    "best_lap": 83.609,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 8.878,
+    "compound": "MEDIUM",
+    "tyre_age": 20,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 17,
+    "driver_number": 27,
+    "code": "HUL",
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 52,
+    "last_lap": 83.966,
+    "best_lap": 83.275,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 3.65,
+    "compound": "HARD",
+    "tyre_age": 20,
+    "pits": 2,
+    "stale": 1
+   },
+   {
+    "pos": 18,
+    "driver_number": 24,
+    "code": "ZHO",
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 52,
+    "last_lap": 87.28,
+    "best_lap": 85.092,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 9.236,
+    "compound": "HARD",
+    "tyre_age": 38,
+    "pits": 1,
+    "stale": 1
+   },
+   {
+    "pos": 19,
+    "driver_number": 18,
+    "code": "STR",
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 52,
+    "last_lap": 82.232,
+    "best_lap": 82.232,
+    "laps_down": 1,
+    "gap": null,
+    "interval": 3.498,
+    "compound": "SOFT",
+    "tyre_age": 2,
+    "pits": 3,
+    "stale": 1
+   },
+   {
+    "pos": 20,
+    "driver_number": 22,
+    "code": "TSU",
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 7,
+    "last_lap": 100.319,
+    "best_lap": 86.198,
+    "laps_down": 46,
+    "gap": null,
+    "interval": 20.531,
+    "compound": "HARD",
+    "tyre_age": 8,
+    "pits": 0,
+    "stale": 1
+   }
+  ]
+ },
+ {
+  "query": "rollup",
+  "params": {
+   "as_of": 3000,
+   "grp": "driver",
+   "lap_from": 5,
+   "lap_to": 40,
+   "clean_only": 1
+  },
+  "rows": [
+   {
+    "dimension": "PIA",
+    "colour": "#FF8000",
+    "compound": "HARD",
+    "laps": 29,
+    "avg_lap": 83.9,
+    "best_lap": 82.968,
+    "best_s1": 27.339,
+    "best_s2": 28.095,
+    "best_s3": 27.405,
+    "avg_trap": 319.7,
+    "avg_tyre_age": 9.3
+   },
+   {
+    "dimension": "LEC",
+    "colour": "#E80020",
+    "compound": "HARD",
+    "laps": 29,
+    "avg_lap": 84.041,
+    "best_lap": 83.226,
+    "best_s1": 27.189,
+    "best_s2": 28.259,
+    "best_s3": 27.592,
+    "avg_trap": 327.2,
+    "avg_tyre_age": 9.5
+   },
+   {
+    "dimension": "NOR",
+    "colour": "#FF8000",
+    "compound": "HARD",
+    "laps": 27,
+    "avg_lap": 84.052,
+    "best_lap": 82.837,
+    "best_s1": 27.127,
+    "best_s2": 28.243,
+    "best_s3": 27.412,
+    "avg_trap": 323.9,
+    "avg_tyre_age": 7.8
+   },
+   {
+    "dimension": "HAM",
+    "colour": "#27F4D2",
+    "compound": "HARD",
+    "laps": 29,
+    "avg_lap": 84.335,
+    "best_lap": 83.328,
+    "best_s1": 27.289,
+    "best_s2": 28.4,
+    "best_s3": 27.477,
+    "avg_trap": 326.8,
+    "avg_tyre_age": 9.5
+   },
+   {
+    "dimension": "SAI",
+    "colour": "#E80020",
+    "compound": "HARD",
+    "laps": 29,
+    "avg_lap": 84.361,
+    "best_lap": 83.285,
+    "best_s1": 27.366,
+    "best_s2": 28.294,
+    "best_s3": 27.503,
+    "avg_trap": 322.0,
+    "avg_tyre_age": 9.2
+   },
+   {
+    "dimension": "VER",
+    "colour": "#3671C6",
+    "compound": "HARD",
+    "laps": 29,
+    "avg_lap": 84.533,
+    "best_lap": 83.424,
+    "best_s1": 27.251,
+    "best_s2": 28.316,
+    "best_s3": 27.446,
+    "avg_trap": 318.4,
+    "avg_tyre_age": 9.7
+   },
+   {
+    "dimension": "RUS",
+    "colour": "#27F4D2",
+    "compound": "HARD",
+    "laps": 26,
+    "avg_lap": 84.58,
+    "best_lap": 83.177,
+    "best_s1": 27.313,
+    "best_s2": 28.441,
+    "best_s3": 27.417,
+    "avg_trap": 330.8,
+    "avg_tyre_age": 9.6
+   },
+   {
+    "dimension": "PER",
+    "colour": "#3671C6",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 84.811,
+    "best_lap": 83.473,
+    "best_s1": 27.309,
+    "best_s2": 28.485,
+    "best_s3": 27.487,
+    "avg_trap": 321.1,
+    "avg_tyre_age": 10.0
+   },
+   {
+    "dimension": "ALO",
+    "colour": "#229971",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 85.248,
+    "best_lap": 84.504,
+    "best_s1": 27.354,
+    "best_s2": 28.839,
+    "best_s3": 27.999,
+    "avg_trap": 327.4,
+    "avg_tyre_age": 11.0
+   },
+   {
+    "dimension": "RIC",
+    "colour": "#6692FF",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 85.287,
+    "best_lap": 84.662,
+    "best_s1": 27.375,
+    "best_s2": 28.781,
+    "best_s3": 28.258,
+    "avg_trap": 323.3,
+    "avg_tyre_age": 11.2
+   },
+   {
+    "dimension": "MAG",
+    "colour": "#B6BABD",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 85.311,
+    "best_lap": 84.408,
+    "best_s1": 27.395,
+    "best_s2": 28.735,
+    "best_s3": 27.971,
+    "avg_trap": 332.9,
+    "avg_tyre_age": 9.4
+   },
+   {
+    "dimension": "HUL",
+    "colour": "#B6BABD",
+    "compound": "HARD",
+    "laps": 26,
+    "avg_lap": 85.415,
+    "best_lap": 83.587,
+    "best_s1": 27.184,
+    "best_s2": 28.603,
+    "best_s3": 27.8,
+    "avg_trap": 321.9,
+    "avg_tyre_age": 12.5
+   },
+   {
+    "dimension": "ALB",
+    "colour": "#64C4FF",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 85.44,
+    "best_lap": 84.412,
+    "best_s1": 27.264,
+    "best_s2": 28.859,
+    "best_s3": 28.111,
+    "avg_trap": 328.5,
+    "avg_tyre_age": 8.9
+   },
+   {
+    "dimension": "COL",
+    "colour": "#64C4FF",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 85.601,
+    "best_lap": 84.485,
+    "best_s1": 27.472,
+    "best_s2": 28.821,
+    "best_s3": 28.048,
+    "avg_trap": 330.2,
+    "avg_tyre_age": 9.0
+   },
+   {
+    "dimension": "GAS",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 26,
+    "avg_lap": 85.605,
+    "best_lap": 84.252,
+    "best_s1": 27.442,
+    "best_s2": 28.748,
+    "best_s3": 27.989,
+    "avg_trap": 327.5,
+    "avg_tyre_age": 8.0
+   },
+   {
+    "dimension": "STR",
+    "colour": "#229971",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 85.622,
+    "best_lap": 84.437,
+    "best_s1": 27.349,
+    "best_s2": 28.802,
+    "best_s3": 28.1,
+    "avg_trap": 329.9,
+    "avg_tyre_age": 10.0
+   },
+   {
+    "dimension": "ZHO",
+    "colour": "#52e252",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 85.993,
+    "best_lap": 85.092,
+    "best_s1": 27.567,
+    "best_s2": 29.104,
+    "best_s3": 28.292,
+    "avg_trap": 321.4,
+    "avg_tyre_age": 10.1
+   },
+   {
+    "dimension": "OCO",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 86.201,
+    "best_lap": 84.652,
+    "best_s1": 27.49,
+    "best_s2": 28.96,
+    "best_s3": 28.157,
+    "avg_trap": 323.0,
+    "avg_tyre_age": 15.4
+   },
+   {
+    "dimension": "BOT",
+    "colour": "#52e252",
+    "compound": "HARD",
+    "laps": 28,
+    "avg_lap": 86.614,
+    "best_lap": 85.804,
+    "best_s1": 27.926,
+    "best_s2": 29.271,
+    "best_s3": 28.483,
+    "avg_trap": 321.4,
+    "avg_tyre_age": 18.5
+   },
+   {
+    "dimension": "TSU",
+    "colour": "#6692FF",
+    "compound": "HARD",
+    "laps": 3,
+    "avg_lap": 93.678,
+    "best_lap": 88.473,
+    "best_s1": 28.426,
+    "best_s2": 30.441,
+    "best_s3": 29.606,
+    "avg_trap": 319.3,
+    "avg_tyre_age": 6.0
+   }
+  ]
+ },
+ {
+  "query": "rollup",
+  "params": {
+   "as_of": 10000,
+   "grp": "stint",
+   "lap_from": 1,
+   "lap_to": 53,
+   "clean_only": 1
+  },
+  "rows": [
+   {
+    "dimension": "STR \u00b7 stint 4",
+    "colour": "#229971",
+    "compound": "SOFT",
+    "laps": 1,
+    "avg_lap": 82.232,
+    "best_lap": 82.232,
+    "best_s1": 26.932,
+    "best_s2": 27.914,
+    "best_s3": 27.386,
+    "avg_trap": 337.0,
+    "avg_tyre_age": 1.0
+   },
+   {
+    "dimension": "PIA \u00b7 stint 3",
+    "colour": "#FF8000",
+    "compound": "HARD",
+    "laps": 14,
+    "avg_lap": 82.458,
+    "best_lap": 81.943,
+    "best_s1": 27.087,
+    "best_s2": 27.725,
+    "best_s3": 27.032,
+    "avg_trap": 327.8,
+    "avg_tyre_age": 7.5
+   },
+   {
+    "dimension": "HAM \u00b7 stint 3",
+    "colour": "#27F4D2",
+    "compound": "HARD",
+    "laps": 15,
+    "avg_lap": 82.69,
+    "best_lap": 81.512,
+    "best_s1": 27.054,
+    "best_s2": 27.439,
+    "best_s3": 27.004,
+    "avg_trap": 326.9,
+    "avg_tyre_age": 8.0
+   },
+   {
+    "dimension": "NOR \u00b7 stint 3",
+    "colour": "#FF8000",
+    "compound": "HARD",
+    "laps": 20,
+    "avg_lap": 82.7,
+    "best_lap": 81.432,
+    "best_s1": 26.936,
+    "best_s2": 27.492,
+    "best_s3": 26.804,
+    "avg_trap": 332.6,
+    "avg_tyre_age": 10.5
+   },
+   {
+    "dimension": "VER \u00b7 stint 3",
+    "colour": "#3671C6",
+    "compound": "MEDIUM",
+    "laps": 11,
+    "avg_lap": 82.778,
+    "best_lap": 81.745,
+    "best_s1": 26.877,
+    "best_s2": 27.614,
+    "best_s3": 27.177,
+    "avg_trap": 318.1,
+    "avg_tyre_age": 6.0
+   },
+   {
+    "dimension": "RUS \u00b7 stint 3",
+    "colour": "#27F4D2",
+    "compound": "HARD",
+    "laps": 19,
+    "avg_lap": 82.873,
+    "best_lap": 82.036,
+    "best_s1": 27.068,
+    "best_s2": 27.825,
+    "best_s3": 27.013,
+    "avg_trap": 330.2,
+    "avg_tyre_age": 10.0
+   },
+   {
+    "dimension": "PIA \u00b7 stint 2",
+    "colour": "#FF8000",
+    "compound": "HARD",
+    "laps": 20,
+    "avg_lap": 83.497,
+    "best_lap": 82.968,
+    "best_s1": 27.339,
+    "best_s2": 28.095,
+    "best_s3": 27.405,
+    "avg_trap": 320.9,
+    "avg_tyre_age": 10.5
+   },
+   {
+    "dimension": "ALO \u00b7 stint 3",
+    "colour": "#229971",
+    "compound": "HARD",
+    "laps": 17,
+    "avg_lap": 83.56,
+    "best_lap": 82.944,
+    "best_s1": 27.073,
+    "best_s2": 28.327,
+    "best_s3": 27.501,
+    "avg_trap": 326.8,
+    "avg_tyre_age": 11.0
+   },
+   {
+    "dimension": "VER \u00b7 stint 2",
+    "colour": "#3671C6",
+    "compound": "HARD",
+    "laps": 17,
+    "avg_lap": 83.588,
+    "best_lap": 83.424,
+    "best_s1": 27.251,
+    "best_s2": 28.316,
+    "best_s3": 27.446,
+    "avg_trap": 321.8,
+    "avg_tyre_age": 9.0
+   },
+   {
+    "dimension": "LEC \u00b7 stint 2",
+    "colour": "#E80020",
+    "compound": "HARD",
+    "laps": 37,
+    "avg_lap": 83.625,
+    "best_lap": 83.226,
+    "best_s1": 27.189,
+    "best_s2": 28.259,
+    "best_s3": 27.592,
+    "avg_trap": 326.3,
+    "avg_tyre_age": 19.0
+   },
+   {
+    "dimension": "PER \u00b7 stint 3",
+    "colour": "#3671C6",
+    "compound": "MEDIUM",
+    "laps": 17,
+    "avg_lap": 83.722,
+    "best_lap": 82.971,
+    "best_s1": 27.254,
+    "best_s2": 28.12,
+    "best_s3": 27.347,
+    "avg_trap": 323.4,
+    "avg_tyre_age": 9.0
+   },
+   {
+    "dimension": "SAI \u00b7 stint 2",
+    "colour": "#E80020",
+    "compound": "HARD",
+    "laps": 33,
+    "avg_lap": 83.768,
+    "best_lap": 83.219,
+    "best_s1": 27.296,
+    "best_s2": 28.237,
+    "best_s3": 27.503,
+    "avg_trap": 322.3,
+    "avg_tyre_age": 17.0
+   },
+   {
+    "dimension": "NOR \u00b7 stint 2",
+    "colour": "#FF8000",
+    "compound": "HARD",
+    "laps": 16,
+    "avg_lap": 83.829,
+    "best_lap": 83.067,
+    "best_s1": 27.324,
+    "best_s2": 28.243,
+    "best_s3": 27.412,
+    "avg_trap": 323.5,
+    "avg_tyre_age": 8.5
+   },
+   {
+    "dimension": "PER \u00b7 stint 2",
+    "colour": "#3671C6",
+    "compound": "HARD",
+    "laps": 10,
+    "avg_lap": 83.879,
+    "best_lap": 83.473,
+    "best_s1": 27.309,
+    "best_s2": 28.485,
+    "best_s3": 27.487,
+    "avg_trap": 324.9,
+    "avg_tyre_age": 5.5
+   },
+   {
+    "dimension": "HAM \u00b7 stint 2",
+    "colour": "#27F4D2",
+    "compound": "HARD",
+    "laps": 20,
+    "avg_lap": 83.93,
+    "best_lap": 83.328,
+    "best_s1": 27.289,
+    "best_s2": 28.4,
+    "best_s3": 27.477,
+    "avg_trap": 327.7,
+    "avg_tyre_age": 10.5
+   },
+   {
+    "dimension": "HUL \u00b7 stint 3",
+    "colour": "#B6BABD",
+    "compound": "HARD",
+    "laps": 19,
+    "avg_lap": 84.211,
+    "best_lap": 83.275,
+    "best_s1": 27.026,
+    "best_s2": 28.476,
+    "best_s3": 27.548,
+    "avg_trap": 326.9,
+    "avg_tyre_age": 10.0
+   },
+   {
+    "dimension": "STR \u00b7 stint 3",
+    "colour": "#229971",
+    "compound": "MEDIUM",
+    "laps": 12,
+    "avg_lap": 84.277,
+    "best_lap": 83.427,
+    "best_s1": 26.947,
+    "best_s2": 28.321,
+    "best_s3": 27.758,
+    "avg_trap": 332.4,
+    "avg_tyre_age": 7.5
+   },
+   {
+    "dimension": "RUS \u00b7 stint 2",
+    "colour": "#27F4D2",
+    "compound": "HARD",
+    "laps": 20,
+    "avg_lap": 84.382,
+    "best_lap": 83.177,
+    "best_s1": 27.313,
+    "best_s2": 28.441,
+    "best_s3": 27.417,
+    "avg_trap": 331.5,
+    "avg_tyre_age": 10.5
+   },
+   {
+    "dimension": "MAG \u00b7 stint 2",
+    "colour": "#B6BABD",
+    "compound": "HARD",
+    "laps": 38,
+    "avg_lap": 84.581,
+    "best_lap": 83.437,
+    "best_s1": 27.395,
+    "best_s2": 28.449,
+    "best_s3": 27.478,
+    "avg_trap": 326.5,
+    "avg_tyre_age": 19.5
+   },
+   {
+    "dimension": "GAS \u00b7 stint 3",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 21,
+    "avg_lap": 84.663,
+    "best_lap": 83.755,
+    "best_s1": 27.38,
+    "best_s2": 28.564,
+    "best_s3": 27.745,
+    "avg_trap": 322.5,
+    "avg_tyre_age": 11.0
+   },
+   {
+    "dimension": "PIA \u00b7 stint 1",
+    "colour": "#FF8000",
+    "compound": "MEDIUM",
+    "laps": 14,
+    "avg_lap": 84.69,
+    "best_lap": 84.077,
+    "best_s1": 27.6,
+    "best_s2": 28.554,
+    "best_s3": 27.836,
+    "avg_trap": 318.3,
+    "avg_tyre_age": 7.5
+   },
+   {
+    "dimension": "ALB \u00b7 stint 2",
+    "colour": "#64C4FF",
+    "compound": "HARD",
+    "laps": 35,
+    "avg_lap": 84.795,
+    "best_lap": 83.918,
+    "best_s1": 27.264,
+    "best_s2": 28.577,
+    "best_s3": 27.742,
+    "avg_trap": 329.1,
+    "avg_tyre_age": 18.0
+   },
+   {
+    "dimension": "NOR \u00b7 stint 1",
+    "colour": "#FF8000",
+    "compound": "MEDIUM",
+    "laps": 12,
+    "avg_lap": 84.825,
+    "best_lap": 84.391,
+    "best_s1": 27.513,
+    "best_s2": 28.898,
+    "best_s3": 27.953,
+    "avg_trap": 325.2,
+    "avg_tyre_age": 6.5
+   },
+   {
+    "dimension": "LEC \u00b7 stint 1",
+    "colour": "#E80020",
+    "compound": "MEDIUM",
+    "laps": 13,
+    "avg_lap": 84.873,
+    "best_lap": 84.362,
+    "best_s1": 27.515,
+    "best_s2": 28.701,
+    "best_s3": 28.039,
+    "avg_trap": 326.0,
+    "avg_tyre_age": 7.0
+   },
+   {
+    "dimension": "COL \u00b7 stint 2",
+    "colour": "#64C4FF",
+    "compound": "HARD",
+    "laps": 36,
+    "avg_lap": 84.875,
+    "best_lap": 83.728,
+    "best_s1": 27.47,
+    "best_s2": 28.56,
+    "best_s3": 27.698,
+    "avg_trap": 328.9,
+    "avg_tyre_age": 18.5
+   },
+   {
+    "dimension": "BOT \u00b7 stint 2",
+    "colour": "#52e252",
+    "compound": "MEDIUM",
+    "laps": 18,
+    "avg_lap": 84.91,
+    "best_lap": 83.609,
+    "best_s1": 27.332,
+    "best_s2": 28.419,
+    "best_s3": 27.64,
+    "avg_trap": 322.1,
+    "avg_tyre_age": 10.5
+   },
+   {
+    "dimension": "STR \u00b7 stint 2",
+    "colour": "#229971",
+    "compound": "HARD",
+    "laps": 15,
+    "avg_lap": 84.928,
+    "best_lap": 84.437,
+    "best_s1": 27.349,
+    "best_s2": 28.802,
+    "best_s3": 28.1,
+    "avg_trap": 333.7,
+    "avg_tyre_age": 9.0
+   },
+   {
+    "dimension": "OCO \u00b7 stint 2",
+    "colour": "#0093cc",
+    "compound": "MEDIUM",
+    "laps": 20,
+    "avg_lap": 84.944,
+    "best_lap": 84.343,
+    "best_s1": 27.49,
+    "best_s2": 28.733,
+    "best_s3": 27.962,
+    "avg_trap": 316.7,
+    "avg_tyre_age": 10.5
+   },
+   {
+    "dimension": "RIC \u00b7 stint 2",
+    "colour": "#6692FF",
+    "compound": "HARD",
+    "laps": 41,
+    "avg_lap": 85.022,
+    "best_lap": 84.219,
+    "best_s1": 27.375,
+    "best_s2": 28.661,
+    "best_s3": 28.069,
+    "avg_trap": 320.2,
+    "avg_tyre_age": 22.0
+   },
+   {
+    "dimension": "ALO \u00b7 stint 2",
+    "colour": "#229971",
+    "compound": "HARD",
+    "laps": 21,
+    "avg_lap": 85.03,
+    "best_lap": 84.504,
+    "best_s1": 27.354,
+    "best_s2": 28.839,
+    "best_s3": 27.999,
+    "avg_trap": 326.6,
+    "avg_tyre_age": 12.0
+   },
+   {
+    "dimension": "SAI \u00b7 stint 1",
+    "colour": "#E80020",
+    "compound": "MEDIUM",
+    "laps": 17,
+    "avg_lap": 85.146,
+    "best_lap": 84.642,
+    "best_s1": 27.435,
+    "best_s2": 28.71,
+    "best_s3": 28.114,
+    "avg_trap": 325.9,
+    "avg_tyre_age": 9.0
+   },
+   {
+    "dimension": "HAM \u00b7 stint 1",
+    "colour": "#27F4D2",
+    "compound": "MEDIUM",
+    "laps": 13,
+    "avg_lap": 85.24,
+    "best_lap": 84.771,
+    "best_s1": 27.451,
+    "best_s2": 28.975,
+    "best_s3": 28.141,
+    "avg_trap": 326.2,
+    "avg_tyre_age": 7.0
+   },
+   {
+    "dimension": "VER \u00b7 stint 1",
+    "colour": "#3671C6",
+    "compound": "HARD",
+    "laps": 20,
+    "avg_lap": 85.321,
+    "best_lap": 84.918,
+    "best_s1": 27.712,
+    "best_s2": 28.95,
+    "best_s3": 28.136,
+    "avg_trap": 317.9,
+    "avg_tyre_age": 10.5
+   },
+   {
+    "dimension": "PER \u00b7 stint 1",
+    "colour": "#3671C6",
+    "compound": "HARD",
+    "laps": 21,
+    "avg_lap": 85.424,
+    "best_lap": 84.654,
+    "best_s1": 27.446,
+    "best_s2": 28.805,
+    "best_s3": 28.202,
+    "avg_trap": 320.3,
+    "avg_tyre_age": 11.0
+   },
+   {
+    "dimension": "RUS \u00b7 stint 1",
+    "colour": "#27F4D2",
+    "compound": "MEDIUM",
+    "laps": 9,
+    "avg_lap": 85.443,
+    "best_lap": 85.046,
+    "best_s1": 27.433,
+    "best_s2": 29.253,
+    "best_s3": 28.318,
+    "avg_trap": 330.8,
+    "avg_tyre_age": 5.0
+   },
+   {
+    "dimension": "HUL \u00b7 stint 2",
+    "colour": "#B6BABD",
+    "compound": "HARD",
+    "laps": 25,
+    "avg_lap": 85.488,
+    "best_lap": 84.983,
+    "best_s1": 27.613,
+    "best_s2": 28.99,
+    "best_s3": 28.219,
+    "avg_trap": 321.9,
+    "avg_tyre_age": 13.0
+   },
+   {
+    "dimension": "GAS \u00b7 stint 2",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 18,
+    "avg_lap": 85.601,
+    "best_lap": 84.816,
+    "best_s1": 27.493,
+    "best_s2": 28.895,
+    "best_s3": 28.148,
+    "avg_trap": 326.6,
+    "avg_tyre_age": 9.5
+   },
+   {
+    "dimension": "ZHO \u00b7 stint 2",
+    "colour": "#52e252",
+    "compound": "HARD",
+    "laps": 36,
+    "avg_lap": 85.938,
+    "best_lap": 85.092,
+    "best_s1": 27.567,
+    "best_s2": 29.104,
+    "best_s3": 28.292,
+    "avg_trap": 319.9,
+    "avg_tyre_age": 19.5
+   },
+   {
+    "dimension": "ALB \u00b7 stint 1",
+    "colour": "#64C4FF",
+    "compound": "MEDIUM",
+    "laps": 15,
+    "avg_lap": 86.062,
+    "best_lap": 85.468,
+    "best_s1": 27.696,
+    "best_s2": 29.147,
+    "best_s3": 28.448,
+    "avg_trap": 327.3,
+    "avg_tyre_age": 8.0
+   },
+   {
+    "dimension": "ALO \u00b7 stint 1",
+    "colour": "#229971",
+    "compound": "MEDIUM",
+    "laps": 10,
+    "avg_lap": 86.139,
+    "best_lap": 85.693,
+    "best_s1": 27.644,
+    "best_s2": 29.305,
+    "best_s3": 28.575,
+    "avg_trap": 329.8,
+    "avg_tyre_age": 6.5
+   },
+   {
+    "dimension": "MAG \u00b7 stint 1",
+    "colour": "#B6BABD",
+    "compound": "MEDIUM",
+    "laps": 12,
+    "avg_lap": 86.171,
+    "best_lap": 85.785,
+    "best_s1": 27.539,
+    "best_s2": 29.326,
+    "best_s3": 28.526,
+    "avg_trap": 332.4,
+    "avg_tyre_age": 6.5
+   },
+   {
+    "dimension": "RIC \u00b7 stint 1",
+    "colour": "#6692FF",
+    "compound": "MEDIUM",
+    "laps": 9,
+    "avg_lap": 86.226,
+    "best_lap": 85.713,
+    "best_s1": 27.574,
+    "best_s2": 29.238,
+    "best_s3": 28.694,
+    "avg_trap": 326.2,
+    "avg_tyre_age": 5.0
+   },
+   {
+    "dimension": "OCO \u00b7 stint 1",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 29,
+    "avg_lap": 86.331,
+    "best_lap": 85.369,
+    "best_s1": 27.493,
+    "best_s2": 29.157,
+    "best_s3": 28.61,
+    "avg_trap": 325.1,
+    "avg_tyre_age": 15.0
+   },
+   {
+    "dimension": "GAS \u00b7 stint 1",
+    "colour": "#0093cc",
+    "compound": "MEDIUM",
+    "laps": 8,
+    "avg_lap": 86.435,
+    "best_lap": 85.82,
+    "best_s1": 27.578,
+    "best_s2": 29.657,
+    "best_s3": 28.575,
+    "avg_trap": 332.3,
+    "avg_tyre_age": 4.5
+   },
+   {
+    "dimension": "STR \u00b7 stint 1",
+    "colour": "#229971",
+    "compound": "HARD",
+    "laps": 17,
+    "avg_lap": 86.452,
+    "best_lap": 85.558,
+    "best_s1": 27.514,
+    "best_s2": 29.342,
+    "best_s3": 28.541,
+    "avg_trap": 329.2,
+    "avg_tyre_age": 10.0
+   },
+   {
+    "dimension": "COL \u00b7 stint 1",
+    "colour": "#64C4FF",
+    "compound": "MEDIUM",
+    "laps": 14,
+    "avg_lap": 86.65,
+    "best_lap": 86.057,
+    "best_s1": 27.633,
+    "best_s2": 29.362,
+    "best_s3": 28.704,
+    "avg_trap": 331.0,
+    "avg_tyre_age": 7.5
+   },
+   {
+    "dimension": "BOT \u00b7 stint 1",
+    "colour": "#52e252",
+    "compound": "HARD",
+    "laps": 31,
+    "avg_lap": 86.671,
+    "best_lap": 85.804,
+    "best_s1": 27.719,
+    "best_s2": 29.271,
+    "best_s3": 28.483,
+    "avg_trap": 321.7,
+    "avg_tyre_age": 17.0
+   },
+   {
+    "dimension": "HUL \u00b7 stint 1",
+    "colour": "#B6BABD",
+    "compound": "MEDIUM",
+    "laps": 3,
+    "avg_lap": 86.829,
+    "best_lap": 86.434,
+    "best_s1": 27.663,
+    "best_s2": 30.071,
+    "best_s3": 28.518,
+    "avg_trap": 325.7,
+    "avg_tyre_age": 2.0
+   },
+   {
+    "dimension": "ZHO \u00b7 stint 1",
+    "colour": "#52e252",
+    "compound": "MEDIUM",
+    "laps": 13,
+    "avg_lap": 86.854,
+    "best_lap": 85.942,
+    "best_s1": 27.648,
+    "best_s2": 29.526,
+    "best_s3": 28.627,
+    "avg_trap": 323.6,
+    "avg_tyre_age": 8.0
+   },
+   {
+    "dimension": "TSU \u00b7 stint 1",
+    "colour": "#6692FF",
+    "compound": "HARD",
+    "laps": 6,
+    "avg_lap": 90.239,
+    "best_lap": 86.198,
+    "best_s1": 27.631,
+    "best_s2": 29.689,
+    "best_s3": 28.878,
+    "avg_trap": 332.3,
+    "avg_tyre_age": 4.5
+   }
+  ]
+ },
+ {
+  "query": "rollup",
+  "params": {
+   "as_of": 10000,
+   "grp": "compound",
+   "lap_from": 1,
+   "lap_to": 53,
+   "clean_only": 0
+  },
+  "rows": [
+   {
+    "dimension": "HARD",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 732,
+    "avg_lap": 85.59,
+    "best_lap": 81.432,
+    "best_s1": 26.936,
+    "best_s2": 27.439,
+    "best_s3": 26.804,
+    "avg_trap": 323.4,
+    "avg_tyre_age": 13.6
+   },
+   {
+    "dimension": "MEDIUM",
+    "colour": "#0093cc",
+    "compound": "MEDIUM",
+    "laps": 274,
+    "avg_lap": 86.276,
+    "best_lap": 81.745,
+    "best_s1": 26.877,
+    "best_s2": 27.614,
+    "best_s3": 27.177,
+    "avg_trap": 322.2,
+    "avg_tyre_age": 7.4
+   },
+   {
+    "dimension": "SOFT",
+    "colour": "#229971",
+    "compound": "SOFT",
+    "laps": 2,
+    "avg_lap": 96.606,
+    "best_lap": 82.232,
+    "best_s1": 26.932,
+    "best_s2": 27.914,
+    "best_s3": 27.386,
+    "avg_trap": 292.0,
+    "avg_tyre_age": 0.5
+   }
+  ]
+ },
+ {
+  "query": "rollup",
+  "params": {
+   "as_of": 10000,
+   "grp": "lap_window",
+   "lap_from": 1,
+   "lap_to": 53,
+   "clean_only": 1
+  },
+  "rows": [
+   {
+    "dimension": "laps 51\u201360",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 50,
+    "avg_lap": 83.584,
+    "best_lap": 81.432,
+    "best_s1": 26.932,
+    "best_s2": 27.439,
+    "best_s3": 26.804,
+    "avg_trap": 325.7,
+    "avg_tyre_age": 23.9
+   },
+   {
+    "dimension": "laps 41\u201350",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 187,
+    "avg_lap": 83.976,
+    "best_lap": 81.745,
+    "best_s1": 26.877,
+    "best_s2": 27.614,
+    "best_s3": 26.974,
+    "avg_trap": 325.3,
+    "avg_tyre_age": 17.7
+   },
+   {
+    "dimension": "laps 31\u201340",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 169,
+    "avg_lap": 84.394,
+    "best_lap": 82.264,
+    "best_s1": 26.947,
+    "best_s2": 27.897,
+    "best_s3": 27.218,
+    "avg_trap": 325.4,
+    "avg_tyre_age": 13.4
+   },
+   {
+    "dimension": "laps 21\u201330",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 185,
+    "avg_lap": 84.76,
+    "best_lap": 82.968,
+    "best_s1": 27.251,
+    "best_s2": 28.095,
+    "best_s3": 27.405,
+    "avg_trap": 325.7,
+    "avg_tyre_age": 12.0
+   },
+   {
+    "dimension": "laps 11\u201320",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 163,
+    "avg_lap": 85.464,
+    "best_lap": 83.826,
+    "best_s1": 27.354,
+    "best_s2": 28.571,
+    "best_s3": 27.646,
+    "avg_trap": 323.0,
+    "avg_tyre_age": 9.6
+   },
+   {
+    "dimension": "laps 1\u201310",
+    "colour": "#0093cc",
+    "compound": "HARD",
+    "laps": 174,
+    "avg_lap": 85.978,
+    "best_lap": 84.077,
+    "best_s1": 27.433,
+    "best_s2": 28.554,
+    "best_s3": 27.836,
+    "avg_trap": 327.8,
+    "avg_tyre_age": 5.1
+   }
+  ]
+ },
+ {
+  "query": "rolling",
+  "params": {
+   "as_of": 2000
+  },
+  "rows": [
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 2,
+    "lap_s": 86.17,
+    "compound": "HARD",
+    "avg5": 86.17
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 3,
+    "lap_s": 85.855,
+    "compound": "HARD",
+    "avg5": 86.013
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 4,
+    "lap_s": 85.633,
+    "compound": "HARD",
+    "avg5": 85.886
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 5,
+    "lap_s": 85.218,
+    "compound": "HARD",
+    "avg5": 85.719
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 6,
+    "lap_s": 85.096,
+    "compound": "HARD",
+    "avg5": 85.594
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 7,
+    "lap_s": 85.042,
+    "compound": "HARD",
+    "avg5": 85.369
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 8,
+    "lap_s": 84.918,
+    "compound": "HARD",
+    "avg5": 85.181
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 9,
+    "lap_s": 85.05,
+    "compound": "HARD",
+    "avg5": 85.065
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 10,
+    "lap_s": 84.964,
+    "compound": "HARD",
+    "avg5": 85.014
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 11,
+    "lap_s": 84.978,
+    "compound": "HARD",
+    "avg5": 84.99
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 12,
+    "lap_s": 84.968,
+    "compound": "HARD",
+    "avg5": 84.976
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 13,
+    "lap_s": 84.957,
+    "compound": "HARD",
+    "avg5": 84.983
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 14,
+    "lap_s": 85.287,
+    "compound": "HARD",
+    "avg5": 85.031
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 15,
+    "lap_s": 85.746,
+    "compound": "HARD",
+    "avg5": 85.187
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 16,
+    "lap_s": 85.244,
+    "compound": "HARD",
+    "avg5": 85.24
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 17,
+    "lap_s": 85.34,
+    "compound": "HARD",
+    "avg5": 85.315
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 18,
+    "lap_s": 85.469,
+    "compound": "HARD",
+    "avg5": 85.417
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 19,
+    "lap_s": 85.537,
+    "compound": "HARD",
+    "avg5": 85.467
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 20,
+    "lap_s": 85.559,
+    "compound": "HARD",
+    "avg5": 85.43
+   },
+   {
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "lap_number": 21,
+    "lap_s": 85.381,
+    "compound": "HARD",
+    "avg5": 85.457
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 2,
+    "lap_s": 87.177,
+    "compound": "MEDIUM",
+    "avg5": 87.177
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 3,
+    "lap_s": 86.588,
+    "compound": "MEDIUM",
+    "avg5": 86.882
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 4,
+    "lap_s": 86.488,
+    "compound": "MEDIUM",
+    "avg5": 86.751
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 5,
+    "lap_s": 86.251,
+    "compound": "MEDIUM",
+    "avg5": 86.626
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 6,
+    "lap_s": 85.899,
+    "compound": "MEDIUM",
+    "avg5": 86.481
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 7,
+    "lap_s": 85.713,
+    "compound": "MEDIUM",
+    "avg5": 86.188
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 8,
+    "lap_s": 85.993,
+    "compound": "MEDIUM",
+    "avg5": 86.069
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 9,
+    "lap_s": 85.815,
+    "compound": "MEDIUM",
+    "avg5": 85.934
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 10,
+    "lap_s": 86.111,
+    "compound": "MEDIUM",
+    "avg5": 85.906
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 13,
+    "lap_s": 86.122,
+    "compound": "HARD",
+    "avg5": 85.951
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 14,
+    "lap_s": 85.827,
+    "compound": "HARD",
+    "avg5": 85.974
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 15,
+    "lap_s": 85.572,
+    "compound": "HARD",
+    "avg5": 85.889
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 16,
+    "lap_s": 85.398,
+    "compound": "HARD",
+    "avg5": 85.806
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 17,
+    "lap_s": 85.028,
+    "compound": "HARD",
+    "avg5": 85.589
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 18,
+    "lap_s": 85.062,
+    "compound": "HARD",
+    "avg5": 85.377
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 19,
+    "lap_s": 84.897,
+    "compound": "HARD",
+    "avg5": 85.191
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 20,
+    "lap_s": 84.753,
+    "compound": "HARD",
+    "avg5": 85.028
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 21,
+    "lap_s": 84.991,
+    "compound": "HARD",
+    "avg5": 84.946
+   },
+   {
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "lap_number": 22,
+    "lap_s": 85.08,
+    "compound": "HARD",
+    "avg5": 84.957
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 2,
+    "lap_s": 85.458,
+    "compound": "MEDIUM",
+    "avg5": 85.458
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 3,
+    "lap_s": 85.11,
+    "compound": "MEDIUM",
+    "avg5": 85.284
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 4,
+    "lap_s": 85.168,
+    "compound": "MEDIUM",
+    "avg5": 85.245
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 5,
+    "lap_s": 84.674,
+    "compound": "MEDIUM",
+    "avg5": 85.103
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 6,
+    "lap_s": 84.768,
+    "compound": "MEDIUM",
+    "avg5": 85.036
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 7,
+    "lap_s": 84.531,
+    "compound": "MEDIUM",
+    "avg5": 84.85
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 8,
+    "lap_s": 84.674,
+    "compound": "MEDIUM",
+    "avg5": 84.763
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 9,
+    "lap_s": 84.664,
+    "compound": "MEDIUM",
+    "avg5": 84.662
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 10,
+    "lap_s": 84.391,
+    "compound": "MEDIUM",
+    "avg5": 84.606
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 11,
+    "lap_s": 84.448,
+    "compound": "MEDIUM",
+    "avg5": 84.542
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 12,
+    "lap_s": 84.655,
+    "compound": "MEDIUM",
+    "avg5": 84.566
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 13,
+    "lap_s": 85.359,
+    "compound": "MEDIUM",
+    "avg5": 84.703
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 16,
+    "lap_s": 84.154,
+    "compound": "HARD",
+    "avg5": 84.601
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 17,
+    "lap_s": 85.585,
+    "compound": "HARD",
+    "avg5": 84.84
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 18,
+    "lap_s": 83.92,
+    "compound": "HARD",
+    "avg5": 84.735
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 19,
+    "lap_s": 84.152,
+    "compound": "HARD",
+    "avg5": 84.634
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 20,
+    "lap_s": 83.882,
+    "compound": "HARD",
+    "avg5": 84.339
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 21,
+    "lap_s": 83.753,
+    "compound": "HARD",
+    "avg5": 84.258
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 22,
+    "lap_s": 83.652,
+    "compound": "HARD",
+    "avg5": 83.872
+   },
+   {
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "lap_number": 23,
+    "lap_s": 83.581,
+    "compound": "HARD",
+    "avg5": 83.804
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 2,
+    "lap_s": 86.606,
+    "compound": "MEDIUM",
+    "avg5": 86.606
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 3,
+    "lap_s": 86.646,
+    "compound": "MEDIUM",
+    "avg5": 86.626
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 4,
+    "lap_s": 86.395,
+    "compound": "MEDIUM",
+    "avg5": 86.549
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 5,
+    "lap_s": 86.361,
+    "compound": "MEDIUM",
+    "avg5": 86.502
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 6,
+    "lap_s": 86.042,
+    "compound": "MEDIUM",
+    "avg5": 86.41
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 7,
+    "lap_s": 85.82,
+    "compound": "MEDIUM",
+    "avg5": 86.253
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 8,
+    "lap_s": 86.465,
+    "compound": "MEDIUM",
+    "avg5": 86.217
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 9,
+    "lap_s": 87.148,
+    "compound": "MEDIUM",
+    "avg5": 86.367
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 12,
+    "lap_s": 85.07,
+    "compound": "HARD",
+    "avg5": 86.109
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 13,
+    "lap_s": 84.816,
+    "compound": "HARD",
+    "avg5": 85.864
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 14,
+    "lap_s": 85.214,
+    "compound": "HARD",
+    "avg5": 85.743
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 15,
+    "lap_s": 85.529,
+    "compound": "HARD",
+    "avg5": 85.555
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 16,
+    "lap_s": 85.537,
+    "compound": "HARD",
+    "avg5": 85.233
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 17,
+    "lap_s": 85.165,
+    "compound": "HARD",
+    "avg5": 85.252
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 18,
+    "lap_s": 86.182,
+    "compound": "HARD",
+    "avg5": 85.525
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 19,
+    "lap_s": 85.403,
+    "compound": "HARD",
+    "avg5": 85.563
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 20,
+    "lap_s": 85.058,
+    "compound": "HARD",
+    "avg5": 85.469
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 21,
+    "lap_s": 84.878,
+    "compound": "HARD",
+    "avg5": 85.337
+   },
+   {
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "lap_number": 22,
+    "lap_s": 85.105,
+    "compound": "HARD",
+    "avg5": 85.325
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 2,
+    "lap_s": 86.411,
+    "compound": "HARD",
+    "avg5": 86.411
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 3,
+    "lap_s": 85.757,
+    "compound": "HARD",
+    "avg5": 86.084
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 4,
+    "lap_s": 85.805,
+    "compound": "HARD",
+    "avg5": 85.991
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 5,
+    "lap_s": 85.447,
+    "compound": "HARD",
+    "avg5": 85.855
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 6,
+    "lap_s": 85.105,
+    "compound": "HARD",
+    "avg5": 85.705
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 7,
+    "lap_s": 85.434,
+    "compound": "HARD",
+    "avg5": 85.51
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 8,
+    "lap_s": 85.186,
+    "compound": "HARD",
+    "avg5": 85.395
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 9,
+    "lap_s": 84.977,
+    "compound": "HARD",
+    "avg5": 85.23
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 10,
+    "lap_s": 84.841,
+    "compound": "HARD",
+    "avg5": 85.109
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 11,
+    "lap_s": 84.773,
+    "compound": "HARD",
+    "avg5": 85.042
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 12,
+    "lap_s": 84.654,
+    "compound": "HARD",
+    "avg5": 84.886
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 13,
+    "lap_s": 85.041,
+    "compound": "HARD",
+    "avg5": 84.857
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 14,
+    "lap_s": 85.229,
+    "compound": "HARD",
+    "avg5": 84.908
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 15,
+    "lap_s": 85.543,
+    "compound": "HARD",
+    "avg5": 85.048
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 16,
+    "lap_s": 85.434,
+    "compound": "HARD",
+    "avg5": 85.18
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 17,
+    "lap_s": 85.444,
+    "compound": "HARD",
+    "avg5": 85.338
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 18,
+    "lap_s": 85.448,
+    "compound": "HARD",
+    "avg5": 85.42
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 19,
+    "lap_s": 85.683,
+    "compound": "HARD",
+    "avg5": 85.51
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 20,
+    "lap_s": 86.111,
+    "compound": "HARD",
+    "avg5": 85.624
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 21,
+    "lap_s": 85.864,
+    "compound": "HARD",
+    "avg5": 85.71
+   },
+   {
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "lap_number": 22,
+    "lap_s": 85.709,
+    "compound": "HARD",
+    "avg5": 85.763
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 2,
+    "lap_s": 87.236,
+    "compound": "MEDIUM",
+    "avg5": 87.236
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 3,
+    "lap_s": 86.41,
+    "compound": "MEDIUM",
+    "avg5": 86.823
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 4,
+    "lap_s": 86.411,
+    "compound": "MEDIUM",
+    "avg5": 86.686
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 5,
+    "lap_s": 86.218,
+    "compound": "MEDIUM",
+    "avg5": 86.569
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 6,
+    "lap_s": 85.911,
+    "compound": "MEDIUM",
+    "avg5": 86.437
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 7,
+    "lap_s": 85.95,
+    "compound": "MEDIUM",
+    "avg5": 86.18
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 8,
+    "lap_s": 85.693,
+    "compound": "MEDIUM",
+    "avg5": 86.037
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 9,
+    "lap_s": 85.969,
+    "compound": "MEDIUM",
+    "avg5": 85.948
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 10,
+    "lap_s": 85.832,
+    "compound": "MEDIUM",
+    "avg5": 85.871
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 11,
+    "lap_s": 85.758,
+    "compound": "MEDIUM",
+    "avg5": 85.84
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 14,
+    "lap_s": 85.832,
+    "compound": "HARD",
+    "avg5": 85.817
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 15,
+    "lap_s": 84.67,
+    "compound": "HARD",
+    "avg5": 85.612
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 16,
+    "lap_s": 84.614,
+    "compound": "HARD",
+    "avg5": 85.341
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 17,
+    "lap_s": 84.574,
+    "compound": "HARD",
+    "avg5": 85.09
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 18,
+    "lap_s": 84.882,
+    "compound": "HARD",
+    "avg5": 84.914
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 19,
+    "lap_s": 85.314,
+    "compound": "HARD",
+    "avg5": 84.811
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 20,
+    "lap_s": 85.676,
+    "compound": "HARD",
+    "avg5": 85.012
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 21,
+    "lap_s": 85.297,
+    "compound": "HARD",
+    "avg5": 85.149
+   },
+   {
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "lap_number": 22,
+    "lap_s": 85.451,
+    "compound": "HARD",
+    "avg5": 85.324
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 2,
+    "lap_s": 85.396,
+    "compound": "MEDIUM",
+    "avg5": 85.396
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 3,
+    "lap_s": 85.179,
+    "compound": "MEDIUM",
+    "avg5": 85.287
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 4,
+    "lap_s": 84.81,
+    "compound": "MEDIUM",
+    "avg5": 85.128
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 5,
+    "lap_s": 84.603,
+    "compound": "MEDIUM",
+    "avg5": 84.997
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 6,
+    "lap_s": 84.663,
+    "compound": "MEDIUM",
+    "avg5": 84.93
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 7,
+    "lap_s": 84.434,
+    "compound": "MEDIUM",
+    "avg5": 84.738
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 8,
+    "lap_s": 84.569,
+    "compound": "MEDIUM",
+    "avg5": 84.616
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 9,
+    "lap_s": 84.362,
+    "compound": "MEDIUM",
+    "avg5": 84.526
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 10,
+    "lap_s": 84.432,
+    "compound": "MEDIUM",
+    "avg5": 84.492
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 11,
+    "lap_s": 84.846,
+    "compound": "MEDIUM",
+    "avg5": 84.529
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 12,
+    "lap_s": 84.916,
+    "compound": "MEDIUM",
+    "avg5": 84.625
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 13,
+    "lap_s": 85.529,
+    "compound": "MEDIUM",
+    "avg5": 84.817
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 14,
+    "lap_s": 85.606,
+    "compound": "MEDIUM",
+    "avg5": 85.066
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 17,
+    "lap_s": 84.27,
+    "compound": "HARD",
+    "avg5": 85.033
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 18,
+    "lap_s": 83.875,
+    "compound": "HARD",
+    "avg5": 84.839
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 19,
+    "lap_s": 84.203,
+    "compound": "HARD",
+    "avg5": 84.697
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 20,
+    "lap_s": 83.826,
+    "compound": "HARD",
+    "avg5": 84.356
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 21,
+    "lap_s": 83.88,
+    "compound": "HARD",
+    "avg5": 84.011
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 22,
+    "lap_s": 83.768,
+    "compound": "HARD",
+    "avg5": 83.91
+   },
+   {
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "lap_number": 23,
+    "lap_s": 83.864,
+    "compound": "HARD",
+    "avg5": 83.908
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 2,
+    "lap_s": 88.342,
+    "compound": "HARD",
+    "avg5": 88.342
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 3,
+    "lap_s": 86.734,
+    "compound": "HARD",
+    "avg5": 87.538
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 4,
+    "lap_s": 86.253,
+    "compound": "HARD",
+    "avg5": 87.11
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 5,
+    "lap_s": 87.234,
+    "compound": "HARD",
+    "avg5": 87.141
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 6,
+    "lap_s": 85.558,
+    "compound": "HARD",
+    "avg5": 86.824
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 7,
+    "lap_s": 86.208,
+    "compound": "HARD",
+    "avg5": 86.397
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 8,
+    "lap_s": 85.799,
+    "compound": "HARD",
+    "avg5": 86.21
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 9,
+    "lap_s": 86.024,
+    "compound": "HARD",
+    "avg5": 86.165
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 10,
+    "lap_s": 86.182,
+    "compound": "HARD",
+    "avg5": 85.954
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 11,
+    "lap_s": 85.675,
+    "compound": "HARD",
+    "avg5": 85.978
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 12,
+    "lap_s": 85.947,
+    "compound": "HARD",
+    "avg5": 85.925
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 13,
+    "lap_s": 86.143,
+    "compound": "HARD",
+    "avg5": 85.994
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 14,
+    "lap_s": 85.895,
+    "compound": "HARD",
+    "avg5": 85.968
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 15,
+    "lap_s": 86.986,
+    "compound": "HARD",
+    "avg5": 86.129
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 16,
+    "lap_s": 86.593,
+    "compound": "HARD",
+    "avg5": 86.313
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 17,
+    "lap_s": 86.584,
+    "compound": "HARD",
+    "avg5": 86.44
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 18,
+    "lap_s": 87.524,
+    "compound": "HARD",
+    "avg5": 86.716
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 21,
+    "lap_s": 84.721,
+    "compound": "HARD",
+    "avg5": 86.482
+   },
+   {
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "lap_number": 22,
+    "lap_s": 84.721,
+    "compound": "HARD",
+    "avg5": 86.029
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 2,
+    "lap_s": 87.205,
+    "compound": "MEDIUM",
+    "avg5": 87.205
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 3,
+    "lap_s": 86.584,
+    "compound": "MEDIUM",
+    "avg5": 86.894
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 4,
+    "lap_s": 86.372,
+    "compound": "MEDIUM",
+    "avg5": 86.72
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 5,
+    "lap_s": 86.142,
+    "compound": "MEDIUM",
+    "avg5": 86.576
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 6,
+    "lap_s": 85.902,
+    "compound": "MEDIUM",
+    "avg5": 86.441
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 7,
+    "lap_s": 85.825,
+    "compound": "MEDIUM",
+    "avg5": 86.165
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 8,
+    "lap_s": 85.966,
+    "compound": "MEDIUM",
+    "avg5": 86.041
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 9,
+    "lap_s": 85.785,
+    "compound": "MEDIUM",
+    "avg5": 85.924
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 10,
+    "lap_s": 85.799,
+    "compound": "MEDIUM",
+    "avg5": 85.855
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 11,
+    "lap_s": 86.04,
+    "compound": "MEDIUM",
+    "avg5": 85.883
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 12,
+    "lap_s": 86.145,
+    "compound": "MEDIUM",
+    "avg5": 85.947
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 13,
+    "lap_s": 86.286,
+    "compound": "MEDIUM",
+    "avg5": 86.011
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 16,
+    "lap_s": 85.644,
+    "compound": "HARD",
+    "avg5": 85.983
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 17,
+    "lap_s": 84.769,
+    "compound": "HARD",
+    "avg5": 85.777
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 18,
+    "lap_s": 86.533,
+    "compound": "HARD",
+    "avg5": 85.875
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 19,
+    "lap_s": 85.109,
+    "compound": "HARD",
+    "avg5": 85.668
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 20,
+    "lap_s": 85.154,
+    "compound": "HARD",
+    "avg5": 85.442
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 21,
+    "lap_s": 84.793,
+    "compound": "HARD",
+    "avg5": 85.272
+   },
+   {
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "lap_number": 22,
+    "lap_s": 85.071,
+    "compound": "HARD",
+    "avg5": 85.332
+   },
+   {
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "lap_number": 2,
+    "lap_s": 87.538,
+    "compound": "HARD",
+    "avg5": 87.538
+   },
+   {
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "lap_number": 3,
+    "lap_s": 86.665,
+    "compound": "HARD",
+    "avg5": 87.102
+   },
+   {
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "lap_number": 4,
+    "lap_s": 86.198,
+    "compound": "HARD",
+    "avg5": 86.8
+   },
+   {
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "lap_number": 5,
+    "lap_s": 92.241,
+    "compound": "HARD",
+    "avg5": 88.16
+   },
+   {
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "lap_number": 6,
+    "lap_s": 88.473,
+    "compound": "HARD",
+    "avg5": 88.223
+   },
+   {
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "lap_number": 7,
+    "lap_s": 100.319,
+    "compound": "HARD",
+    "avg5": 90.779
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 2,
+    "lap_s": 87.011,
+    "compound": "MEDIUM",
+    "avg5": 87.011
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 3,
+    "lap_s": 86.282,
+    "compound": "MEDIUM",
+    "avg5": 86.647
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 4,
+    "lap_s": 86.527,
+    "compound": "MEDIUM",
+    "avg5": 86.607
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 5,
+    "lap_s": 86.039,
+    "compound": "MEDIUM",
+    "avg5": 86.465
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 6,
+    "lap_s": 85.946,
+    "compound": "MEDIUM",
+    "avg5": 86.361
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 7,
+    "lap_s": 85.99,
+    "compound": "MEDIUM",
+    "avg5": 86.157
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 8,
+    "lap_s": 85.963,
+    "compound": "MEDIUM",
+    "avg5": 86.093
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 9,
+    "lap_s": 85.666,
+    "compound": "MEDIUM",
+    "avg5": 85.921
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 10,
+    "lap_s": 85.711,
+    "compound": "MEDIUM",
+    "avg5": 85.855
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 11,
+    "lap_s": 85.734,
+    "compound": "MEDIUM",
+    "avg5": 85.813
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 12,
+    "lap_s": 85.468,
+    "compound": "MEDIUM",
+    "avg5": 85.708
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 13,
+    "lap_s": 85.533,
+    "compound": "MEDIUM",
+    "avg5": 85.622
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 14,
+    "lap_s": 86.14,
+    "compound": "MEDIUM",
+    "avg5": 85.717
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 15,
+    "lap_s": 86.463,
+    "compound": "MEDIUM",
+    "avg5": 85.868
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 16,
+    "lap_s": 86.454,
+    "compound": "MEDIUM",
+    "avg5": 86.012
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 19,
+    "lap_s": 85.254,
+    "compound": "HARD",
+    "avg5": 85.969
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 20,
+    "lap_s": 85.074,
+    "compound": "HARD",
+    "avg5": 85.877
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 21,
+    "lap_s": 84.86,
+    "compound": "HARD",
+    "avg5": 85.621
+   },
+   {
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "lap_number": 22,
+    "lap_s": 85.053,
+    "compound": "HARD",
+    "avg5": 85.339
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 2,
+    "lap_s": 88.721,
+    "compound": "MEDIUM",
+    "avg5": 88.721
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 3,
+    "lap_s": 86.997,
+    "compound": "MEDIUM",
+    "avg5": 87.859
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 4,
+    "lap_s": 86.226,
+    "compound": "MEDIUM",
+    "avg5": 87.315
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 5,
+    "lap_s": 89.256,
+    "compound": "MEDIUM",
+    "avg5": 87.8
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 6,
+    "lap_s": 85.942,
+    "compound": "MEDIUM",
+    "avg5": 87.428
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 7,
+    "lap_s": 86.381,
+    "compound": "MEDIUM",
+    "avg5": 86.96
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 8,
+    "lap_s": 86.411,
+    "compound": "MEDIUM",
+    "avg5": 86.843
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 9,
+    "lap_s": 86.315,
+    "compound": "MEDIUM",
+    "avg5": 86.861
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 10,
+    "lap_s": 86.128,
+    "compound": "MEDIUM",
+    "avg5": 86.235
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 11,
+    "lap_s": 86.488,
+    "compound": "MEDIUM",
+    "avg5": 86.345
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 12,
+    "lap_s": 86.348,
+    "compound": "MEDIUM",
+    "avg5": 86.338
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 13,
+    "lap_s": 86.802,
+    "compound": "MEDIUM",
+    "avg5": 86.416
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 14,
+    "lap_s": 87.092,
+    "compound": "MEDIUM",
+    "avg5": 86.572
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 17,
+    "lap_s": 85.092,
+    "compound": "HARD",
+    "avg5": 86.364
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 18,
+    "lap_s": 85.245,
+    "compound": "HARD",
+    "avg5": 86.116
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 19,
+    "lap_s": 85.777,
+    "compound": "HARD",
+    "avg5": 86.002
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 20,
+    "lap_s": 85.588,
+    "compound": "HARD",
+    "avg5": 85.759
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 21,
+    "lap_s": 85.743,
+    "compound": "HARD",
+    "avg5": 85.489
+   },
+   {
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "lap_number": 22,
+    "lap_s": 85.876,
+    "compound": "HARD",
+    "avg5": 85.646
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 2,
+    "lap_s": 87.512,
+    "compound": "MEDIUM",
+    "avg5": 87.512
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 3,
+    "lap_s": 86.434,
+    "compound": "MEDIUM",
+    "avg5": 86.973
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 4,
+    "lap_s": 86.541,
+    "compound": "MEDIUM",
+    "avg5": 86.829
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 7,
+    "lap_s": 85.882,
+    "compound": "HARD",
+    "avg5": 86.592
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 8,
+    "lap_s": 85.351,
+    "compound": "HARD",
+    "avg5": 86.344
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 9,
+    "lap_s": 85.191,
+    "compound": "HARD",
+    "avg5": 85.88
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 10,
+    "lap_s": 85.194,
+    "compound": "HARD",
+    "avg5": 85.632
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 11,
+    "lap_s": 85.322,
+    "compound": "HARD",
+    "avg5": 85.388
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 12,
+    "lap_s": 85.166,
+    "compound": "HARD",
+    "avg5": 85.245
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 13,
+    "lap_s": 84.983,
+    "compound": "HARD",
+    "avg5": 85.171
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 14,
+    "lap_s": 85.014,
+    "compound": "HARD",
+    "avg5": 85.136
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 15,
+    "lap_s": 85.862,
+    "compound": "HARD",
+    "avg5": 85.269
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 16,
+    "lap_s": 85.017,
+    "compound": "HARD",
+    "avg5": 85.208
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 17,
+    "lap_s": 86.119,
+    "compound": "HARD",
+    "avg5": 85.399
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 18,
+    "lap_s": 85.465,
+    "compound": "HARD",
+    "avg5": 85.495
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 19,
+    "lap_s": 85.326,
+    "compound": "HARD",
+    "avg5": 85.558
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 20,
+    "lap_s": 86.113,
+    "compound": "HARD",
+    "avg5": 85.608
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 21,
+    "lap_s": 85.735,
+    "compound": "HARD",
+    "avg5": 85.752
+   },
+   {
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "lap_number": 22,
+    "lap_s": 85.565,
+    "compound": "HARD",
+    "avg5": 85.641
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 2,
+    "lap_s": 86.837,
+    "compound": "HARD",
+    "avg5": 86.837
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 3,
+    "lap_s": 86.466,
+    "compound": "HARD",
+    "avg5": 86.651
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 4,
+    "lap_s": 86.297,
+    "compound": "HARD",
+    "avg5": 86.533
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 5,
+    "lap_s": 86.568,
+    "compound": "HARD",
+    "avg5": 86.542
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 6,
+    "lap_s": 85.684,
+    "compound": "HARD",
+    "avg5": 86.37
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 7,
+    "lap_s": 86.006,
+    "compound": "HARD",
+    "avg5": 86.204
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 8,
+    "lap_s": 86.053,
+    "compound": "HARD",
+    "avg5": 86.122
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 9,
+    "lap_s": 85.369,
+    "compound": "HARD",
+    "avg5": 85.936
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 10,
+    "lap_s": 86.035,
+    "compound": "HARD",
+    "avg5": 85.829
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 11,
+    "lap_s": 86.349,
+    "compound": "HARD",
+    "avg5": 85.962
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 12,
+    "lap_s": 85.954,
+    "compound": "HARD",
+    "avg5": 85.952
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 13,
+    "lap_s": 86.059,
+    "compound": "HARD",
+    "avg5": 85.953
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 14,
+    "lap_s": 86.307,
+    "compound": "HARD",
+    "avg5": 86.141
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 15,
+    "lap_s": 86.677,
+    "compound": "HARD",
+    "avg5": 86.269
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 16,
+    "lap_s": 86.694,
+    "compound": "HARD",
+    "avg5": 86.338
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 17,
+    "lap_s": 86.002,
+    "compound": "HARD",
+    "avg5": 86.348
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 18,
+    "lap_s": 86.234,
+    "compound": "HARD",
+    "avg5": 86.383
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 19,
+    "lap_s": 86.174,
+    "compound": "HARD",
+    "avg5": 86.356
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 20,
+    "lap_s": 87.326,
+    "compound": "HARD",
+    "avg5": 86.486
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 21,
+    "lap_s": 86.45,
+    "compound": "HARD",
+    "avg5": 86.437
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 22,
+    "lap_s": 86.327,
+    "compound": "HARD",
+    "avg5": 86.502
+   },
+   {
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "lap_number": 23,
+    "lap_s": 86.201,
+    "compound": "HARD",
+    "avg5": 86.496
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 2,
+    "lap_s": 87.845,
+    "compound": "MEDIUM",
+    "avg5": 87.845
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 3,
+    "lap_s": 86.578,
+    "compound": "MEDIUM",
+    "avg5": 87.212
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 4,
+    "lap_s": 86.25,
+    "compound": "MEDIUM",
+    "avg5": 86.891
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 5,
+    "lap_s": 87.151,
+    "compound": "MEDIUM",
+    "avg5": 86.956
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 6,
+    "lap_s": 86.057,
+    "compound": "MEDIUM",
+    "avg5": 86.776
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 7,
+    "lap_s": 87.204,
+    "compound": "MEDIUM",
+    "avg5": 86.648
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 8,
+    "lap_s": 86.385,
+    "compound": "MEDIUM",
+    "avg5": 86.609
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 9,
+    "lap_s": 86.222,
+    "compound": "MEDIUM",
+    "avg5": 86.604
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 10,
+    "lap_s": 86.289,
+    "compound": "MEDIUM",
+    "avg5": 86.431
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 11,
+    "lap_s": 86.607,
+    "compound": "MEDIUM",
+    "avg5": 86.541
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 12,
+    "lap_s": 86.5,
+    "compound": "MEDIUM",
+    "avg5": 86.401
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 13,
+    "lap_s": 86.41,
+    "compound": "MEDIUM",
+    "avg5": 86.406
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 14,
+    "lap_s": 86.93,
+    "compound": "MEDIUM",
+    "avg5": 86.547
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 15,
+    "lap_s": 86.672,
+    "compound": "MEDIUM",
+    "avg5": 86.624
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 18,
+    "lap_s": 84.485,
+    "compound": "HARD",
+    "avg5": 86.199
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 19,
+    "lap_s": 84.928,
+    "compound": "HARD",
+    "avg5": 85.885
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 20,
+    "lap_s": 85.148,
+    "compound": "HARD",
+    "avg5": 85.633
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 21,
+    "lap_s": 84.784,
+    "compound": "HARD",
+    "avg5": 85.203
+   },
+   {
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "lap_number": 22,
+    "lap_s": 84.852,
+    "compound": "HARD",
+    "avg5": 84.839
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 2,
+    "lap_s": 86.043,
+    "compound": "MEDIUM",
+    "avg5": 86.043
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 3,
+    "lap_s": 85.63,
+    "compound": "MEDIUM",
+    "avg5": 85.837
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 4,
+    "lap_s": 85.722,
+    "compound": "MEDIUM",
+    "avg5": 85.798
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 5,
+    "lap_s": 84.771,
+    "compound": "MEDIUM",
+    "avg5": 85.541
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 6,
+    "lap_s": 84.919,
+    "compound": "MEDIUM",
+    "avg5": 85.417
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 7,
+    "lap_s": 85.205,
+    "compound": "MEDIUM",
+    "avg5": 85.249
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 8,
+    "lap_s": 84.871,
+    "compound": "MEDIUM",
+    "avg5": 85.098
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 9,
+    "lap_s": 85.035,
+    "compound": "MEDIUM",
+    "avg5": 84.96
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 10,
+    "lap_s": 84.909,
+    "compound": "MEDIUM",
+    "avg5": 84.988
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 11,
+    "lap_s": 84.938,
+    "compound": "MEDIUM",
+    "avg5": 84.992
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 12,
+    "lap_s": 84.932,
+    "compound": "MEDIUM",
+    "avg5": 84.937
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 13,
+    "lap_s": 85.329,
+    "compound": "MEDIUM",
+    "avg5": 85.029
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 14,
+    "lap_s": 85.817,
+    "compound": "MEDIUM",
+    "avg5": 85.185
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 17,
+    "lap_s": 84.843,
+    "compound": "HARD",
+    "avg5": 85.172
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 18,
+    "lap_s": 84.831,
+    "compound": "HARD",
+    "avg5": 85.15
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 19,
+    "lap_s": 84.649,
+    "compound": "HARD",
+    "avg5": 85.094
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 20,
+    "lap_s": 84.64,
+    "compound": "HARD",
+    "avg5": 84.956
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 21,
+    "lap_s": 84.915,
+    "compound": "HARD",
+    "avg5": 84.776
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 22,
+    "lap_s": 84.613,
+    "compound": "HARD",
+    "avg5": 84.73
+   },
+   {
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "lap_number": 23,
+    "lap_s": 84.132,
+    "compound": "HARD",
+    "avg5": 84.59
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 2,
+    "lap_s": 85.731,
+    "compound": "MEDIUM",
+    "avg5": 85.731
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 3,
+    "lap_s": 85.358,
+    "compound": "MEDIUM",
+    "avg5": 85.544
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 4,
+    "lap_s": 85.086,
+    "compound": "MEDIUM",
+    "avg5": 85.392
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 5,
+    "lap_s": 85.006,
+    "compound": "MEDIUM",
+    "avg5": 85.295
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 6,
+    "lap_s": 84.642,
+    "compound": "MEDIUM",
+    "avg5": 85.165
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 7,
+    "lap_s": 84.715,
+    "compound": "MEDIUM",
+    "avg5": 84.961
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 8,
+    "lap_s": 84.87,
+    "compound": "MEDIUM",
+    "avg5": 84.864
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 9,
+    "lap_s": 84.774,
+    "compound": "MEDIUM",
+    "avg5": 84.801
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 10,
+    "lap_s": 84.684,
+    "compound": "MEDIUM",
+    "avg5": 84.737
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 11,
+    "lap_s": 85.066,
+    "compound": "MEDIUM",
+    "avg5": 84.822
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 12,
+    "lap_s": 85.276,
+    "compound": "MEDIUM",
+    "avg5": 84.934
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 13,
+    "lap_s": 85.423,
+    "compound": "MEDIUM",
+    "avg5": 85.045
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 14,
+    "lap_s": 85.234,
+    "compound": "MEDIUM",
+    "avg5": 85.137
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 15,
+    "lap_s": 85.183,
+    "compound": "MEDIUM",
+    "avg5": 85.236
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 16,
+    "lap_s": 85.341,
+    "compound": "MEDIUM",
+    "avg5": 85.291
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 17,
+    "lap_s": 85.407,
+    "compound": "MEDIUM",
+    "avg5": 85.318
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 18,
+    "lap_s": 85.678,
+    "compound": "MEDIUM",
+    "avg5": 85.369
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 21,
+    "lap_s": 84.499,
+    "compound": "HARD",
+    "avg5": 85.222
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 22,
+    "lap_s": 84.226,
+    "compound": "HARD",
+    "avg5": 85.03
+   },
+   {
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "lap_number": 23,
+    "lap_s": 84.557,
+    "compound": "HARD",
+    "avg5": 84.873
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 2,
+    "lap_s": 86.055,
+    "compound": "MEDIUM",
+    "avg5": 86.055
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 3,
+    "lap_s": 85.733,
+    "compound": "MEDIUM",
+    "avg5": 85.894
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 4,
+    "lap_s": 85.762,
+    "compound": "MEDIUM",
+    "avg5": 85.85
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 5,
+    "lap_s": 85.494,
+    "compound": "MEDIUM",
+    "avg5": 85.761
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 6,
+    "lap_s": 85.101,
+    "compound": "MEDIUM",
+    "avg5": 85.629
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 7,
+    "lap_s": 85.046,
+    "compound": "MEDIUM",
+    "avg5": 85.427
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 8,
+    "lap_s": 85.216,
+    "compound": "MEDIUM",
+    "avg5": 85.324
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 9,
+    "lap_s": 85.115,
+    "compound": "MEDIUM",
+    "avg5": 85.194
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 10,
+    "lap_s": 85.468,
+    "compound": "MEDIUM",
+    "avg5": 85.189
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 13,
+    "lap_s": 84.546,
+    "compound": "HARD",
+    "avg5": 85.078
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 14,
+    "lap_s": 84.548,
+    "compound": "HARD",
+    "avg5": 84.979
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 15,
+    "lap_s": 84.56,
+    "compound": "HARD",
+    "avg5": 84.847
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 16,
+    "lap_s": 84.692,
+    "compound": "HARD",
+    "avg5": 84.763
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 17,
+    "lap_s": 84.546,
+    "compound": "HARD",
+    "avg5": 84.578
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 18,
+    "lap_s": 84.521,
+    "compound": "HARD",
+    "avg5": 84.573
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 19,
+    "lap_s": 84.706,
+    "compound": "HARD",
+    "avg5": 84.605
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 20,
+    "lap_s": 85.504,
+    "compound": "HARD",
+    "avg5": 84.794
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 21,
+    "lap_s": 84.626,
+    "compound": "HARD",
+    "avg5": 84.781
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 22,
+    "lap_s": 84.711,
+    "compound": "HARD",
+    "avg5": 84.814
+   },
+   {
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "lap_number": 23,
+    "lap_s": 84.624,
+    "compound": "HARD",
+    "avg5": 84.834
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 2,
+    "lap_s": 88.377,
+    "compound": "HARD",
+    "avg5": 88.377
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 3,
+    "lap_s": 86.918,
+    "compound": "HARD",
+    "avg5": 87.648
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 4,
+    "lap_s": 86.324,
+    "compound": "HARD",
+    "avg5": 87.206
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 5,
+    "lap_s": 88.242,
+    "compound": "HARD",
+    "avg5": 87.465
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 6,
+    "lap_s": 86.499,
+    "compound": "HARD",
+    "avg5": 87.272
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 7,
+    "lap_s": 86.359,
+    "compound": "HARD",
+    "avg5": 86.868
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 8,
+    "lap_s": 86.206,
+    "compound": "HARD",
+    "avg5": 86.726
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 9,
+    "lap_s": 86.188,
+    "compound": "HARD",
+    "avg5": 86.699
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 10,
+    "lap_s": 86.118,
+    "compound": "HARD",
+    "avg5": 86.274
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 11,
+    "lap_s": 86.47,
+    "compound": "HARD",
+    "avg5": 86.268
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 12,
+    "lap_s": 86.207,
+    "compound": "HARD",
+    "avg5": 86.238
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 13,
+    "lap_s": 86.349,
+    "compound": "HARD",
+    "avg5": 86.266
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 14,
+    "lap_s": 86.481,
+    "compound": "HARD",
+    "avg5": 86.325
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 15,
+    "lap_s": 86.79,
+    "compound": "HARD",
+    "avg5": 86.459
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 16,
+    "lap_s": 86.569,
+    "compound": "HARD",
+    "avg5": 86.479
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 17,
+    "lap_s": 86.396,
+    "compound": "HARD",
+    "avg5": 86.517
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 18,
+    "lap_s": 86.359,
+    "compound": "HARD",
+    "avg5": 86.519
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 19,
+    "lap_s": 86.456,
+    "compound": "HARD",
+    "avg5": 86.514
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 20,
+    "lap_s": 86.803,
+    "compound": "HARD",
+    "avg5": 86.517
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 21,
+    "lap_s": 87.23,
+    "compound": "HARD",
+    "avg5": 86.649
+   },
+   {
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "lap_number": 22,
+    "lap_s": 87.404,
+    "compound": "HARD",
+    "avg5": 86.85
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 2,
+    "lap_s": 85.116,
+    "compound": "MEDIUM",
+    "avg5": 85.116
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 3,
+    "lap_s": 85.261,
+    "compound": "MEDIUM",
+    "avg5": 85.189
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 4,
+    "lap_s": 84.695,
+    "compound": "MEDIUM",
+    "avg5": 85.024
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 5,
+    "lap_s": 84.66,
+    "compound": "MEDIUM",
+    "avg5": 84.933
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 6,
+    "lap_s": 84.603,
+    "compound": "MEDIUM",
+    "avg5": 84.867
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 7,
+    "lap_s": 84.418,
+    "compound": "MEDIUM",
+    "avg5": 84.727
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 8,
+    "lap_s": 84.57,
+    "compound": "MEDIUM",
+    "avg5": 84.589
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 9,
+    "lap_s": 84.375,
+    "compound": "MEDIUM",
+    "avg5": 84.525
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 10,
+    "lap_s": 84.077,
+    "compound": "MEDIUM",
+    "avg5": 84.409
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 11,
+    "lap_s": 84.247,
+    "compound": "MEDIUM",
+    "avg5": 84.337
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 12,
+    "lap_s": 84.748,
+    "compound": "MEDIUM",
+    "avg5": 84.403
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 13,
+    "lap_s": 84.67,
+    "compound": "MEDIUM",
+    "avg5": 84.423
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 14,
+    "lap_s": 85.048,
+    "compound": "MEDIUM",
+    "avg5": 84.558
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 15,
+    "lap_s": 85.166,
+    "compound": "MEDIUM",
+    "avg5": 84.776
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 18,
+    "lap_s": 84.028,
+    "compound": "HARD",
+    "avg5": 84.732
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 19,
+    "lap_s": 84.602,
+    "compound": "HARD",
+    "avg5": 84.703
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 20,
+    "lap_s": 83.986,
+    "compound": "HARD",
+    "avg5": 84.566
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 21,
+    "lap_s": 83.903,
+    "compound": "HARD",
+    "avg5": 84.337
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 22,
+    "lap_s": 83.647,
+    "compound": "HARD",
+    "avg5": 84.033
+   },
+   {
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "lap_number": 23,
+    "lap_s": 83.66,
+    "compound": "HARD",
+    "avg5": 83.96
+   }
+  ]
+ },
+ {
+  "query": "degradation",
+  "params": {
+   "as_of": 10000
+  },
+  "rows": [
+   {
+    "code": "TSU",
+    "colour": "#6692FF",
+    "team": "RB",
+    "stint_number": 1,
+    "compound": "HARD",
+    "n": 6,
+    "first_lap": 2,
+    "last_lap": 7,
+    "slope": 2.1535,
+    "avg_lap": 90.239
+   },
+   {
+    "code": "GAS",
+    "colour": "#0093cc",
+    "team": "Alpine",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 18,
+    "first_lap": 12,
+    "last_lap": 29,
+    "slope": 0.0704,
+    "avg_lap": 85.601
+   },
+   {
+    "code": "STR",
+    "colour": "#229971",
+    "team": "Aston Martin",
+    "stint_number": 3,
+    "compound": "MEDIUM",
+    "n": 12,
+    "first_lap": 38,
+    "last_lap": 49,
+    "slope": 0.064,
+    "avg_lap": 84.277
+   },
+   {
+    "code": "VER",
+    "colour": "#3671C6",
+    "team": "Red Bull Racing",
+    "stint_number": 3,
+    "compound": "MEDIUM",
+    "n": 11,
+    "first_lap": 43,
+    "last_lap": 53,
+    "slope": 0.0574,
+    "avg_lap": 82.778
+   },
+   {
+    "code": "STR",
+    "colour": "#229971",
+    "team": "Aston Martin",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 15,
+    "first_lap": 21,
+    "last_lap": 35,
+    "slope": 0.0401,
+    "avg_lap": 84.928
+   },
+   {
+    "code": "ZHO",
+    "colour": "#52e252",
+    "team": "Kick Sauber",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 36,
+    "first_lap": 17,
+    "last_lap": 52,
+    "slope": 0.0316,
+    "avg_lap": 85.938
+   },
+   {
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "team": "Mercedes",
+    "stint_number": 3,
+    "compound": "HARD",
+    "n": 15,
+    "first_lap": 39,
+    "last_lap": 53,
+    "slope": 0.0202,
+    "avg_lap": 82.69
+   },
+   {
+    "code": "LEC",
+    "colour": "#E80020",
+    "team": "Ferrari",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 13,
+    "first_lap": 2,
+    "last_lap": 14,
+    "slope": 0.0199,
+    "avg_lap": 84.873
+   },
+   {
+    "code": "SAI",
+    "colour": "#E80020",
+    "team": "Ferrari",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 17,
+    "first_lap": 2,
+    "last_lap": 18,
+    "slope": 0.0194,
+    "avg_lap": 85.146
+   },
+   {
+    "code": "OCO",
+    "colour": "#0093cc",
+    "team": "Alpine",
+    "stint_number": 1,
+    "compound": "HARD",
+    "n": 29,
+    "first_lap": 2,
+    "last_lap": 30,
+    "slope": 0.0106,
+    "avg_lap": 86.331
+   },
+   {
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "team": "Haas F1 Team",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 25,
+    "first_lap": 7,
+    "last_lap": 31,
+    "slope": 0.0102,
+    "avg_lap": 85.488
+   },
+   {
+    "code": "GAS",
+    "colour": "#0093cc",
+    "team": "Alpine",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 8,
+    "first_lap": 2,
+    "last_lap": 9,
+    "slope": 0.0101,
+    "avg_lap": 86.435
+   },
+   {
+    "code": "VER",
+    "colour": "#3671C6",
+    "team": "Red Bull Racing",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 17,
+    "first_lap": 24,
+    "last_lap": 40,
+    "slope": 0.0092,
+    "avg_lap": 83.588
+   },
+   {
+    "code": "PER",
+    "colour": "#3671C6",
+    "team": "Red Bull Racing",
+    "stint_number": 1,
+    "compound": "HARD",
+    "n": 21,
+    "first_lap": 2,
+    "last_lap": 22,
+    "slope": 0.005,
+    "avg_lap": 85.424
+   },
+   {
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "team": "Haas F1 Team",
+    "stint_number": 3,
+    "compound": "HARD",
+    "n": 19,
+    "first_lap": 34,
+    "last_lap": 52,
+    "slope": 0.0039,
+    "avg_lap": 84.211
+   },
+   {
+    "code": "SAI",
+    "colour": "#E80020",
+    "team": "Ferrari",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 33,
+    "first_lap": 21,
+    "last_lap": 53,
+    "slope": 0.0039,
+    "avg_lap": 83.768
+   },
+   {
+    "code": "ALO",
+    "colour": "#229971",
+    "team": "Aston Martin",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 21,
+    "first_lap": 14,
+    "last_lap": 34,
+    "slope": -0.0017,
+    "avg_lap": 85.03
+   },
+   {
+    "code": "OCO",
+    "colour": "#0093cc",
+    "team": "Alpine",
+    "stint_number": 2,
+    "compound": "MEDIUM",
+    "n": 20,
+    "first_lap": 33,
+    "last_lap": 52,
+    "slope": -0.0037,
+    "avg_lap": 84.944
+   },
+   {
+    "code": "VER",
+    "colour": "#3671C6",
+    "team": "Red Bull Racing",
+    "stint_number": 1,
+    "compound": "HARD",
+    "n": 20,
+    "first_lap": 2,
+    "last_lap": 21,
+    "slope": -0.0051,
+    "avg_lap": 85.321
+   },
+   {
+    "code": "PIA",
+    "colour": "#FF8000",
+    "team": "McLaren",
+    "stint_number": 3,
+    "compound": "HARD",
+    "n": 14,
+    "first_lap": 40,
+    "last_lap": 53,
+    "slope": -0.006,
+    "avg_lap": 82.458
+   },
+   {
+    "code": "LEC",
+    "colour": "#E80020",
+    "team": "Ferrari",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 37,
+    "first_lap": 17,
+    "last_lap": 53,
+    "slope": -0.0083,
+    "avg_lap": 83.625
+   },
+   {
+    "code": "BOT",
+    "colour": "#52e252",
+    "team": "Kick Sauber",
+    "stint_number": 1,
+    "compound": "HARD",
+    "n": 31,
+    "first_lap": 2,
+    "last_lap": 32,
+    "slope": -0.0092,
+    "avg_lap": 86.671
+   },
+   {
+    "code": "PIA",
+    "colour": "#FF8000",
+    "team": "McLaren",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 14,
+    "first_lap": 2,
+    "last_lap": 15,
+    "slope": -0.0095,
+    "avg_lap": 84.69
+   },
+   {
+    "code": "COL",
+    "colour": "#64C4FF",
+    "team": "Williams",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 36,
+    "first_lap": 18,
+    "last_lap": 53,
+    "slope": -0.0118,
+    "avg_lap": 84.875
+   },
+   {
+    "code": "STR",
+    "colour": "#229971",
+    "team": "Aston Martin",
+    "stint_number": 1,
+    "compound": "HARD",
+    "n": 17,
+    "first_lap": 2,
+    "last_lap": 18,
+    "slope": -0.014,
+    "avg_lap": 86.452
+   },
+   {
+    "code": "RIC",
+    "colour": "#6692FF",
+    "team": "RB",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 41,
+    "first_lap": 13,
+    "last_lap": 53,
+    "slope": -0.0169,
+    "avg_lap": 85.022
+   },
+   {
+    "code": "ALO",
+    "colour": "#229971",
+    "team": "Aston Martin",
+    "stint_number": 3,
+    "compound": "HARD",
+    "n": 17,
+    "first_lap": 37,
+    "last_lap": 53,
+    "slope": -0.0178,
+    "avg_lap": 83.56
+   },
+   {
+    "code": "PER",
+    "colour": "#3671C6",
+    "team": "Red Bull Racing",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 10,
+    "first_lap": 25,
+    "last_lap": 34,
+    "slope": -0.0225,
+    "avg_lap": 83.879
+   },
+   {
+    "code": "PER",
+    "colour": "#3671C6",
+    "team": "Red Bull Racing",
+    "stint_number": 3,
+    "compound": "MEDIUM",
+    "n": 17,
+    "first_lap": 37,
+    "last_lap": 53,
+    "slope": -0.0279,
+    "avg_lap": 83.722
+   },
+   {
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "team": "Mercedes",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 13,
+    "first_lap": 2,
+    "last_lap": 14,
+    "slope": -0.0314,
+    "avg_lap": 85.24
+   },
+   {
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "team": "Williams",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 15,
+    "first_lap": 2,
+    "last_lap": 16,
+    "slope": -0.032,
+    "avg_lap": 86.062
+   },
+   {
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "team": "Williams",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 35,
+    "first_lap": 19,
+    "last_lap": 53,
+    "slope": -0.0322,
+    "avg_lap": 84.795
+   },
+   {
+    "code": "COL",
+    "colour": "#64C4FF",
+    "team": "Williams",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 14,
+    "first_lap": 2,
+    "last_lap": 15,
+    "slope": -0.0322,
+    "avg_lap": 86.65
+   },
+   {
+    "code": "PIA",
+    "colour": "#FF8000",
+    "team": "McLaren",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 20,
+    "first_lap": 18,
+    "last_lap": 37,
+    "slope": -0.0335,
+    "avg_lap": 83.497
+   },
+   {
+    "code": "GAS",
+    "colour": "#0093cc",
+    "team": "Alpine",
+    "stint_number": 3,
+    "compound": "HARD",
+    "n": 21,
+    "first_lap": 32,
+    "last_lap": 52,
+    "slope": -0.0379,
+    "avg_lap": 84.663
+   },
+   {
+    "code": "NOR",
+    "colour": "#FF8000",
+    "team": "McLaren",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 12,
+    "first_lap": 2,
+    "last_lap": 13,
+    "slope": -0.0413,
+    "avg_lap": 84.825
+   },
+   {
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "team": "Haas F1 Team",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 38,
+    "first_lap": 16,
+    "last_lap": 53,
+    "slope": -0.0457,
+    "avg_lap": 84.581
+   },
+   {
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "team": "Mercedes",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 20,
+    "first_lap": 13,
+    "last_lap": 32,
+    "slope": -0.0537,
+    "avg_lap": 84.382
+   },
+   {
+    "code": "NOR",
+    "colour": "#FF8000",
+    "team": "McLaren",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 16,
+    "first_lap": 16,
+    "last_lap": 31,
+    "slope": -0.0546,
+    "avg_lap": 83.829
+   },
+   {
+    "code": "NOR",
+    "colour": "#FF8000",
+    "team": "McLaren",
+    "stint_number": 3,
+    "compound": "HARD",
+    "n": 20,
+    "first_lap": 34,
+    "last_lap": 53,
+    "slope": -0.0564,
+    "avg_lap": 82.7
+   },
+   {
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "team": "Haas F1 Team",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 12,
+    "first_lap": 2,
+    "last_lap": 13,
+    "slope": -0.064,
+    "avg_lap": 86.171
+   },
+   {
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "team": "Mercedes",
+    "stint_number": 3,
+    "compound": "HARD",
+    "n": 19,
+    "first_lap": 35,
+    "last_lap": 53,
+    "slope": -0.0838,
+    "avg_lap": 82.873
+   },
+   {
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "team": "Mercedes",
+    "stint_number": 2,
+    "compound": "HARD",
+    "n": 20,
+    "first_lap": 17,
+    "last_lap": 36,
+    "slope": -0.088,
+    "avg_lap": 83.93
+   },
+   {
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "team": "Mercedes",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 9,
+    "first_lap": 2,
+    "last_lap": 10,
+    "slope": -0.0957,
+    "avg_lap": 85.443
+   },
+   {
+    "code": "ZHO",
+    "colour": "#52e252",
+    "team": "Kick Sauber",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 13,
+    "first_lap": 2,
+    "last_lap": 14,
+    "slope": -0.1003,
+    "avg_lap": 86.854
+   },
+   {
+    "code": "BOT",
+    "colour": "#52e252",
+    "team": "Kick Sauber",
+    "stint_number": 2,
+    "compound": "MEDIUM",
+    "n": 18,
+    "first_lap": 35,
+    "last_lap": 52,
+    "slope": -0.1131,
+    "avg_lap": 84.91
+   },
+   {
+    "code": "ALO",
+    "colour": "#229971",
+    "team": "Aston Martin",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 10,
+    "first_lap": 2,
+    "last_lap": 11,
+    "slope": -0.1278,
+    "avg_lap": 86.139
+   },
+   {
+    "code": "RIC",
+    "colour": "#6692FF",
+    "team": "RB",
+    "stint_number": 1,
+    "compound": "MEDIUM",
+    "n": 9,
+    "first_lap": 2,
+    "last_lap": 10,
+    "slope": -0.1352,
+    "avg_lap": 86.226
+   }
+  ]
+ },
+ {
+  "query": "lapchart",
+  "params": {
+   "as_of": 1200
+  },
+  "rows": [
+   {
+    "lap_number": 1,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "pos": 14
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 15
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 16
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 17
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 18
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 19
+   },
+   {
+    "lap_number": 1,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 20
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "pos": 15
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 16
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 17
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 18
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 19
+   },
+   {
+    "lap_number": 2,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 20
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 15
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "pos": 16
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 17
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 18
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 19
+   },
+   {
+    "lap_number": 3,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 20
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "pos": 15
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 16
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 17
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 18
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 19
+   },
+   {
+    "lap_number": 4,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 20
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 15
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 16
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 17
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 18
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "pos": 19
+   },
+   {
+    "lap_number": 5,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 20
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 15
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 16
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 17
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 18
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "pos": 19
+   },
+   {
+    "lap_number": 6,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 20
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 15
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 16
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 17
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 18
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 22,
+    "code": "TSU",
+    "colour": "#6692FF",
+    "pos": 19
+   },
+   {
+    "lap_number": 7,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 20
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 15
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 16
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 17
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 18
+   },
+   {
+    "lap_number": 8,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 19
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 14
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 15
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 16
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 17
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 18
+   },
+   {
+    "lap_number": 9,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 19
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 7
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 8
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 11
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 12
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 13
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 14
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 15
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 16
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 17
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 18
+   },
+   {
+    "lap_number": 10,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 19
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 7
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 8
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 9
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 10
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 11
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 12
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 13
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 14
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 15
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 16
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 17
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 18
+   },
+   {
+    "lap_number": 11,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 19
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 7
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 8
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 9
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 10
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 11
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 12
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 13
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 14
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 15
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 16
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 17
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 18
+   },
+   {
+    "lap_number": 12,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 19
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 3
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 4
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 11,
+    "code": "PER",
+    "colour": "#3671C6",
+    "pos": 7
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 23,
+    "code": "ALB",
+    "colour": "#64C4FF",
+    "pos": 8
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 20,
+    "code": "MAG",
+    "colour": "#B6BABD",
+    "pos": 9
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 31,
+    "code": "OCO",
+    "colour": "#0093cc",
+    "pos": 10
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 18,
+    "code": "STR",
+    "colour": "#229971",
+    "pos": 11
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 43,
+    "code": "COL",
+    "colour": "#64C4FF",
+    "pos": 12
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 77,
+    "code": "BOT",
+    "colour": "#52e252",
+    "pos": 13
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 24,
+    "code": "ZHO",
+    "colour": "#52e252",
+    "pos": 14
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 14,
+    "code": "ALO",
+    "colour": "#229971",
+    "pos": 15
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 63,
+    "code": "RUS",
+    "colour": "#27F4D2",
+    "pos": 16
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 10,
+    "code": "GAS",
+    "colour": "#0093cc",
+    "pos": 17
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 3,
+    "code": "RIC",
+    "colour": "#6692FF",
+    "pos": 18
+   },
+   {
+    "lap_number": 13,
+    "driver_number": 27,
+    "code": "HUL",
+    "colour": "#B6BABD",
+    "pos": 19
+   },
+   {
+    "lap_number": 14,
+    "driver_number": 81,
+    "code": "PIA",
+    "colour": "#FF8000",
+    "pos": 1
+   },
+   {
+    "lap_number": 14,
+    "driver_number": 16,
+    "code": "LEC",
+    "colour": "#E80020",
+    "pos": 2
+   },
+   {
+    "lap_number": 14,
+    "driver_number": 55,
+    "code": "SAI",
+    "colour": "#E80020",
+    "pos": 3
+   },
+   {
+    "lap_number": 14,
+    "driver_number": 4,
+    "code": "NOR",
+    "colour": "#FF8000",
+    "pos": 4
+   },
+   {
+    "lap_number": 14,
+    "driver_number": 44,
+    "code": "HAM",
+    "colour": "#27F4D2",
+    "pos": 5
+   },
+   {
+    "lap_number": 14,
+    "driver_number": 1,
+    "code": "VER",
+    "colour": "#3671C6",
+    "pos": 6
+   }
+  ]
+ },
+ {
+  "query": "sectors",
+  "params": {
+   "as_of": 4000
+  },
+  "rows": [
+   {
+    "sector": "S1",
+    "code": "VER",
+    "best": 26.877
+   },
+   {
+    "sector": "S2",
+    "code": "VER",
+    "best": 27.614
+   },
+   {
+    "sector": "S3",
+    "code": "PIA",
+    "best": 27.069
+   },
+   {
+    "sector": "Lap",
+    "code": "VER",
+    "best": 81.745
+   }
+  ]
+ },
+ {
+  "query": "tumbling",
+  "params": {
+   "as_of": 10000,
+   "width": 5
+  },
+  "rows": [
+   {
+    "window_start": 1,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 8,
+    "avg_lap": 85.018
+   },
+   {
+    "window_start": 1,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 8,
+    "avg_lap": 85.146
+   },
+   {
+    "window_start": 1,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 8,
+    "avg_lap": 85.651
+   },
+   {
+    "window_start": 1,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 8,
+    "avg_lap": 85.787
+   },
+   {
+    "window_start": 1,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 8,
+    "avg_lap": 86.522
+   },
+   {
+    "window_start": 1,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 7,
+    "avg_lap": 86.684
+   },
+   {
+    "window_start": 1,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 8,
+    "avg_lap": 86.71
+   },
+   {
+    "window_start": 1,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 8,
+    "avg_lap": 86.855
+   },
+   {
+    "window_start": 1,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 8,
+    "avg_lap": 87.393
+   },
+   {
+    "window_start": 1,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 8,
+    "avg_lap": 87.633
+   },
+   {
+    "window_start": 6,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 10,
+    "avg_lap": 84.507
+   },
+   {
+    "window_start": 6,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 10,
+    "avg_lap": 84.614
+   },
+   {
+    "window_start": 6,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 10,
+    "avg_lap": 85.061
+   },
+   {
+    "window_start": 6,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 10,
+    "avg_lap": 85.088
+   },
+   {
+    "window_start": 6,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 9,
+    "avg_lap": 85.655
+   },
+   {
+    "window_start": 6,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 10,
+    "avg_lap": 85.913
+   },
+   {
+    "window_start": 6,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 9,
+    "avg_lap": 86.069
+   },
+   {
+    "window_start": 6,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 86.143
+   },
+   {
+    "window_start": 6,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 10,
+    "avg_lap": 86.255
+   },
+   {
+    "window_start": 6,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 7,
+    "avg_lap": 88.332
+   },
+   {
+    "window_start": 11,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 8,
+    "avg_lap": 84.793
+   },
+   {
+    "window_start": 11,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 7,
+    "avg_lap": 84.953
+   },
+   {
+    "window_start": 11,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 10,
+    "avg_lap": 85.118
+   },
+   {
+    "window_start": 11,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 9,
+    "avg_lap": 85.231
+   },
+   {
+    "window_start": 11,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 8,
+    "avg_lap": 85.602
+   },
+   {
+    "window_start": 11,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 9,
+    "avg_lap": 85.775
+   },
+   {
+    "window_start": 11,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 3,
+    "avg_lap": 85.84
+   },
+   {
+    "window_start": 11,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 8,
+    "avg_lap": 85.863
+   },
+   {
+    "window_start": 11,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 86.246
+   },
+   {
+    "window_start": 11,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 9,
+    "avg_lap": 86.559
+   },
+   {
+    "window_start": 16,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 8,
+    "avg_lap": 84.289
+   },
+   {
+    "window_start": 16,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 7,
+    "avg_lap": 84.657
+   },
+   {
+    "window_start": 16,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 9,
+    "avg_lap": 84.77
+   },
+   {
+    "window_start": 16,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 5,
+    "avg_lap": 85.028
+   },
+   {
+    "window_start": 16,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 6,
+    "avg_lap": 85.224
+   },
+   {
+    "window_start": 16,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 10,
+    "avg_lap": 85.525
+   },
+   {
+    "window_start": 16,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 10,
+    "avg_lap": 85.527
+   },
+   {
+    "window_start": 16,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 8,
+    "avg_lap": 85.72
+   },
+   {
+    "window_start": 16,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 10,
+    "avg_lap": 85.977
+   },
+   {
+    "window_start": 16,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 9,
+    "avg_lap": 86.032
+   },
+   {
+    "window_start": 21,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 10,
+    "avg_lap": 83.566
+   },
+   {
+    "window_start": 21,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 10,
+    "avg_lap": 83.939
+   },
+   {
+    "window_start": 21,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 10,
+    "avg_lap": 84.504
+   },
+   {
+    "window_start": 21,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 6,
+    "avg_lap": 84.735
+   },
+   {
+    "window_start": 21,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 10,
+    "avg_lap": 84.847
+   },
+   {
+    "window_start": 21,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 84.878
+   },
+   {
+    "window_start": 21,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 5,
+    "avg_lap": 84.979
+   },
+   {
+    "window_start": 21,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 10,
+    "avg_lap": 85.381
+   },
+   {
+    "window_start": 21,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 10,
+    "avg_lap": 86.128
+   },
+   {
+    "window_start": 21,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 10,
+    "avg_lap": 86.429
+   },
+   {
+    "window_start": 26,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 10,
+    "avg_lap": 83.214
+   },
+   {
+    "window_start": 26,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 10,
+    "avg_lap": 83.454
+   },
+   {
+    "window_start": 26,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 10,
+    "avg_lap": 83.514
+   },
+   {
+    "window_start": 26,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 10,
+    "avg_lap": 83.633
+   },
+   {
+    "window_start": 26,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 84.962
+   },
+   {
+    "window_start": 26,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 10,
+    "avg_lap": 84.992
+   },
+   {
+    "window_start": 26,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 5,
+    "avg_lap": 85.137
+   },
+   {
+    "window_start": 26,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 10,
+    "avg_lap": 85.143
+   },
+   {
+    "window_start": 26,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 10,
+    "avg_lap": 85.97
+   },
+   {
+    "window_start": 26,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 9,
+    "avg_lap": 86.231
+   },
+   {
+    "window_start": 31,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 10,
+    "avg_lap": 83.43
+   },
+   {
+    "window_start": 31,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 8,
+    "avg_lap": 83.454
+   },
+   {
+    "window_start": 31,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 8,
+    "avg_lap": 83.601
+   },
+   {
+    "window_start": 31,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 9,
+    "avg_lap": 83.744
+   },
+   {
+    "window_start": 31,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 8,
+    "avg_lap": 84.385
+   },
+   {
+    "window_start": 31,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 7,
+    "avg_lap": 84.645
+   },
+   {
+    "window_start": 31,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 5,
+    "avg_lap": 84.918
+   },
+   {
+    "window_start": 31,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 9,
+    "avg_lap": 85.066
+   },
+   {
+    "window_start": 31,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 85.209
+   },
+   {
+    "window_start": 31,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 8,
+    "avg_lap": 85.811
+   },
+   {
+    "window_start": 36,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 8,
+    "avg_lap": 83.294
+   },
+   {
+    "window_start": 36,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 8,
+    "avg_lap": 83.408
+   },
+   {
+    "window_start": 36,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 10,
+    "avg_lap": 83.602
+   },
+   {
+    "window_start": 36,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 9,
+    "avg_lap": 83.883
+   },
+   {
+    "window_start": 36,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 7,
+    "avg_lap": 84.118
+   },
+   {
+    "window_start": 36,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 10,
+    "avg_lap": 84.487
+   },
+   {
+    "window_start": 36,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 10,
+    "avg_lap": 84.978
+   },
+   {
+    "window_start": 36,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 85.102
+   },
+   {
+    "window_start": 36,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 5,
+    "avg_lap": 85.104
+   },
+   {
+    "window_start": 36,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 10,
+    "avg_lap": 85.714
+   },
+   {
+    "window_start": 41,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 10,
+    "avg_lap": 82.475
+   },
+   {
+    "window_start": 41,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 10,
+    "avg_lap": 82.754
+   },
+   {
+    "window_start": 41,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 8,
+    "avg_lap": 83.314
+   },
+   {
+    "window_start": 41,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 10,
+    "avg_lap": 83.657
+   },
+   {
+    "window_start": 41,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 10,
+    "avg_lap": 83.832
+   },
+   {
+    "window_start": 41,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 10,
+    "avg_lap": 84.108
+   },
+   {
+    "window_start": 41,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 84.853
+   },
+   {
+    "window_start": 41,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 5,
+    "avg_lap": 84.983
+   },
+   {
+    "window_start": 41,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 10,
+    "avg_lap": 85.266
+   },
+   {
+    "window_start": 41,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 10,
+    "avg_lap": 85.991
+   },
+   {
+    "window_start": 46,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 10,
+    "avg_lap": 82.338
+   },
+   {
+    "window_start": 46,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 10,
+    "avg_lap": 82.647
+   },
+   {
+    "window_start": 46,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 10,
+    "avg_lap": 82.948
+   },
+   {
+    "window_start": 46,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 10,
+    "avg_lap": 83.844
+   },
+   {
+    "window_start": 46,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 9,
+    "avg_lap": 83.948
+   },
+   {
+    "window_start": 46,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 10,
+    "avg_lap": 84.279
+   },
+   {
+    "window_start": 46,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 10,
+    "avg_lap": 84.425
+   },
+   {
+    "window_start": 46,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 10,
+    "avg_lap": 84.518
+   },
+   {
+    "window_start": 46,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 5,
+    "avg_lap": 84.882
+   },
+   {
+    "window_start": 46,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 10,
+    "avg_lap": 85.279
+   },
+   {
+    "window_start": 51,
+    "team": "McLaren",
+    "colour": "#FF8000",
+    "laps": 6,
+    "avg_lap": 82.053
+   },
+   {
+    "window_start": 51,
+    "team": "Mercedes",
+    "colour": "#27F4D2",
+    "laps": 6,
+    "avg_lap": 82.902
+   },
+   {
+    "window_start": 51,
+    "team": "Aston Martin",
+    "colour": "#229971",
+    "laps": 4,
+    "avg_lap": 83.287
+   },
+   {
+    "window_start": 51,
+    "team": "Red Bull Racing",
+    "colour": "#3671C6",
+    "laps": 6,
+    "avg_lap": 83.534
+   },
+   {
+    "window_start": 51,
+    "team": "Ferrari",
+    "colour": "#E80020",
+    "laps": 6,
+    "avg_lap": 83.545
+   },
+   {
+    "window_start": 51,
+    "team": "Haas F1 Team",
+    "colour": "#B6BABD",
+    "laps": 5,
+    "avg_lap": 83.804
+   },
+   {
+    "window_start": 51,
+    "team": "Williams",
+    "colour": "#64C4FF",
+    "laps": 6,
+    "avg_lap": 84.023
+   },
+   {
+    "window_start": 51,
+    "team": "Alpine",
+    "colour": "#0093cc",
+    "laps": 4,
+    "avg_lap": 84.165
+   },
+   {
+    "window_start": 51,
+    "team": "RB",
+    "colour": "#6692FF",
+    "laps": 3,
+    "avg_lap": 84.402
+   },
+   {
+    "window_start": 51,
+    "team": "Kick Sauber",
+    "colour": "#52e252",
+    "laps": 4,
+    "avg_lap": 85.203
+   }
+  ]
+ }
+]
