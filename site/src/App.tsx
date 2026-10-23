@@ -143,7 +143,7 @@ export default function App({ boot }: { boot: Boot }) {
           <input
             type="range"
             min={0}
-            max={Math.ceil(replay.endTime)}
+            max={Math.ceil(replay.endTime + 20)}
             step={1}
             value={Math.floor(replay.clock)}
             onChange={(e) => {
@@ -369,6 +369,9 @@ export default function App({ boot }: { boot: Boot }) {
         {finished && (
           <section className="official panel" aria-labelledby="off-h">
             <h2 id="off-h" className="ph">Timing order vs official classification</h2>
+            {replay.lateQueue.length > 0 && (
+              <p className="note">{replay.lateQueue.length} delayed events have not arrived yet, so the timing order is still provisional.</p>
+            )}
             <ol className="cmp">
               {meta.result
                 .filter((r) => r.position != null)
