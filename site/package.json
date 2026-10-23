@@ -1,0 +1,27 @@
+{
+  "name": "pitwall-replay",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5320 --strictPort",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5320 --strictPort",
+    "test": "node --test 'tests/*.test.ts'"
+  },
+  "dependencies": {
+    "@fontsource-variable/saira": "5.3.0",
+    "@fontsource/dm-mono": "5.3.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "sql.js": "1.15.1"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/sql.js": "1.4.11",
+    "@vitejs/plugin-react": "6.1.2",
+    "typescript": "7.0.2",
+    "vite": "8.3.4"
+  }
+}
